@@ -1,0 +1,619 @@
+{
+  "title": "Im Krankenhaus",
+  "subtitle": "Kapitel 6",
+  "vocabulary": {
+    "Nomen (Krankenhaus & Notfall)": [
+      [
+        "das Krankenhaus, -häuser",
+        "hospital",
+        "n",
+        "Im Krankenhaus bekommst du Hilfe."
+      ],
+      [
+        "die Notaufnahme, -n",
+        "ER / emergency department",
+        "f",
+        "In der Notaufnahme wird Celia untersucht."
+      ],
+      ["der Notruf, -e", "emergency call", "m", "Rufen Sie den Notruf 112 an!"],
+      [
+        "die Notrufzentrale, -n",
+        "emergency call center",
+        "f",
+        "Die Notrufzentrale stellt viele Fragen."
+      ],
+      [
+        "der Krankenwagen, -",
+        "ambulance",
+        "m",
+        "Der Krankenwagen kommt sofort."
+      ],
+      ["der Unfall, -fälle", "accident", "m", "Celia hatte einen Unfall."],
+      [
+        "die Verletzung, -en",
+        "injury",
+        "f",
+        "Sie hat eine Verletzung am Knöchel."
+      ],
+      ["der Knochen, -", "bone", "m", "Sie hat sich einen Knochen gebrochen."],
+      ["der Knöchel, -", "ankle", "m", "Ihr Knöchel ist gebrochen."],
+      ["die Wunde, -n", "wound", "f", "Der Arzt reinigt die Wunde."],
+      [
+        "das Pflaster, -",
+        "band-aid / plaster",
+        "n",
+        "Danach klebt er ein Pflaster auf die Wunde."
+      ],
+      [
+        "der Verband, -verbände",
+        "bandage",
+        "m",
+        "Der Arzt legt einen Verband an."
+      ],
+      [
+        "die Spritze, -n",
+        "injection",
+        "f",
+        "Die Ärztin gibt ihr eine Spritze."
+      ],
+      [
+        "das Schmerzmittel, -",
+        "painkiller",
+        "n",
+        "Sie bekommt ein Schmerzmittel."
+      ],
+      ["das Medikament, -e", "medicine", "n", "Nehmen Sie Medikamente?"],
+      ["das Formular, -e", "form", "n", "Celia füllt ein Formular aus."],
+      [
+        "die Untersuchung, -en",
+        "examination",
+        "f",
+        "In der Notaufnahme macht man Untersuchungen."
+      ],
+      ["die Operation, -en", "operation", "f", "Wir müssen operieren."],
+      ["die Allergie, -n", "allergy", "f", "Haben Sie Allergien?"],
+      [
+        "die Unverträglichkeit, -en",
+        "intolerance",
+        "f",
+        "Haben Sie Unverträglichkeiten?"
+      ],
+      ["die Kopfschmerzen, -", "headache", "pl", "Haben Sie Kopfschmerzen?"],
+      [
+        "die Übelkeit, -",
+        "nausea",
+        "f",
+        "Ist Ihnen übel? / Haben Sie Übelkeit?"
+      ],
+      ["die Schmerzen, -", "pain", "pl", "Haben Sie Schmerzen?"],
+      ["das Blut, -", "blood", "n", "Es blutet."],
+      [
+        "die Schere, -n",
+        "scissors",
+        "f",
+        "Der Arzt schneidet den Verband mit einer Schere."
+      ],
+      ["die Cafeteria, -s", "cafeteria", "f", "Tim geht in die Cafeteria."],
+      [
+        "die Physiotherapie, -n",
+        "physiotherapy",
+        "f",
+        "Sie braucht Physiotherapie."
+      ],
+      [
+        "die HNO-Abteilung, -en",
+        "ENT department",
+        "f",
+        "Die HNO-Abteilung ist im Krankenhaus."
+      ],
+      [
+        "die Chirurgie, -n",
+        "surgery department",
+        "f",
+        "Die Chirurgie ist auf einer anderen Etage."
+      ],
+      [
+        "die Innere Medizin, -",
+        "internal medicine",
+        "f",
+        "Die Innere Medizin ist eine Abteilung."
+      ],
+      [
+        "die Orthopädie, -",
+        "orthopedics",
+        "f",
+        "Orthopädie gehört zur Unfallabteilung."
+      ],
+      [
+        "die Unfallabteilung, -en",
+        "trauma/accident department",
+        "f",
+        "Die Unfallabteilung ist für Knochenverletzungen."
+      ],
+      [
+        "die Kinderstation, -en",
+        "children’s ward",
+        "f",
+        "Auf der Kinderstation liegen kranke Kinder."
+      ],
+      [
+        "die Entbindungsstation, -en",
+        "maternity ward",
+        "f",
+        "Auf der Entbindungsstation werden Babys geboren."
+      ],
+      [
+        "die Information, -en",
+        "information desk",
+        "f",
+        "An der Information fragt Tim nach Celia."
+      ]
+    ],
+    "Nomen (Berufe im Gesundheitsbereich)": [
+      [
+        "die Medizinische Fachangestellte (MFA), -n",
+        "medical assistant",
+        "f",
+        "Claudia Popa arbeitet als Medizinische Fachangestellte."
+      ],
+      [
+        "der Altenpfleger, - / die Altenpflegerin, -nen",
+        "elderly care nurse",
+        null,
+        "Filip Novak arbeitet als Altenpfleger."
+      ],
+      [
+        "der Physiotherapeut, -en / die Physiotherapeutin, -nen",
+        "physiotherapist",
+        null,
+        "Flora Fox arbeitet als Physiotherapeutin."
+      ],
+      [
+        "der Patient, -en / die Patientin, -nen",
+        "patient",
+        null,
+        "Sie betreut Patienten im Krankenhaus."
+      ],
+      [
+        "die Praxis, Praxen",
+        "doctor’s office / practice",
+        "f",
+        "In der Praxis gibt es viel Papierkram."
+      ],
+      [
+        "der Papierkram, -",
+        "paperwork",
+        "m",
+        "In der Praxis gibt es viel Papierkram."
+      ],
+      ["der Blutdruck, -", "blood pressure", "m", "Sie misst Blutdruck."],
+      [
+        "die Berufsschule, -n",
+        "vocational school",
+        "f",
+        "In der Berufsschule lernt man Theorie."
+      ],
+      [
+        "die Ausbildung, -en",
+        "training / apprenticeship",
+        "f",
+        "Sie macht eine duale Ausbildung."
+      ],
+      ["die Schicht, -en", "shift", "f", "Sie arbeitet im Schichtdienst."],
+      [
+        "der Wochenenddienst, -e",
+        "weekend duty",
+        "m",
+        "Sie arbeitet auch am Wochenende."
+      ],
+      [
+        "der Feiertag, -e",
+        "public holiday",
+        "m",
+        "Sie arbeitet manchmal auch an Feiertagen."
+      ]
+    ],
+    "Nomen (Alltag im Krankenzimmer)": [
+      [
+        "das Krankenzimmer, -",
+        "hospital room",
+        "n",
+        "Celia liegt im Krankenzimmer."
+      ],
+      ["das Kopfkissen, -", "pillow", "n", "Tim bringt das Kopfkissen mit."],
+      ["der Kopfhörer, -", "headphones", "m", "Tim soll Kopfhörer mitbringen."],
+      [
+        "der Laptop, -s",
+        "laptop",
+        "m",
+        "Bring mir bitte auch meinen Laptop mit."
+      ],
+      [
+        "das Ladekabel, -",
+        "charging cable",
+        "n",
+        "Ich brauche das Ladekabel von meinem Handy."
+      ],
+      ["das Handy, -s", "mobile phone", "n", "Celia hat ihr Handy verloren."],
+      [
+        "das T-Shirt, -s",
+        "T-shirt",
+        "n",
+        "Ich brauche ein paar T-Shirts aus dem Schrank."
+      ],
+      [
+        "der Schrank, -schränke",
+        "wardrobe / cupboard",
+        "m",
+        "Die T-Shirts sind im Schrank."
+      ],
+      [
+        "die Handcreme, -s",
+        "hand cream",
+        "f",
+        "Bring mir bitte auch meine Handcreme."
+      ],
+      [
+        "die Lippenpflege, -n",
+        "lip balm",
+        "f",
+        "Sie braucht auch Lippenpflege."
+      ]
+    ],
+    "Verben": [
+      ["bluten", "to bleed", null, "Die Wunde blutet."],
+      ["stürzen", "to fall", null, "Sie ist auf der Treppe gestürzt."],
+      [
+        "sich verletzen",
+        "to injure oneself",
+        null,
+        "Sie hat sich am Knöchel verletzt."
+      ],
+      [
+        "sich einen Knochen brechen",
+        "to break a bone",
+        null,
+        "Sie hat sich einen Knochen gebrochen."
+      ],
+      ["Schmerzen haben", "to be in pain", null, "Ich habe starke Schmerzen."],
+      ["erkältet sein", "to have a cold", null, "Ich bin erkältet."],
+      [
+        "sich schwach fühlen",
+        "to feel weak",
+        null,
+        "Ich fühle mich heute schwach."
+      ],
+      [
+        "einen Schreck bekommen",
+        "to get a fright",
+        null,
+        "Ich habe einen Schreck bekommen."
+      ],
+      [
+        "Untersuchungen machen",
+        "to do examinations/tests",
+        null,
+        "Der Arzt macht Untersuchungen."
+      ],
+      ["operieren", "to operate (surgery)", null, "Wir müssen Sie operieren."],
+      [
+        "etwas verschreiben",
+        "to prescribe something",
+        null,
+        "Der Arzt verschreibt Medikamente."
+      ],
+      [
+        "Medikamente nehmen",
+        "to take medicine",
+        null,
+        "Nehmen Sie Medikamente?"
+      ],
+      [
+        "gegen etw. allergisch sein",
+        "to be allergic to sth",
+        null,
+        "Ich bin gegen Penicillin allergisch."
+      ],
+      [
+        "einen Verband anlegen",
+        "to apply a bandage",
+        null,
+        "Der Arzt legt einen Verband an."
+      ],
+      [
+        "ein Pflaster auf die Wunde kleben",
+        "to put a plaster on the wound",
+        null,
+        "Er klebt ein Pflaster auf die Wunde."
+      ],
+      [
+        "eine Spritze geben",
+        "to give an injection",
+        null,
+        "Die Ärztin gibt mir eine Spritze."
+      ],
+      [
+        "die Wunde reinigen",
+        "to clean the wound",
+        null,
+        "Der Arzt reinigt die Wunde."
+      ],
+      [
+        "die Wunde nähen",
+        "to stitch the wound",
+        null,
+        "Der Arzt näht die Wunde."
+      ],
+      ["112 anrufen", "to call 112", null, "Rufen Sie 112 an!"],
+      ["ausfüllen", "to fill out", null, "Bitte füllen Sie das Formular aus."],
+      [
+        "mitbringen",
+        "to bring along",
+        null,
+        "Bring mir bitte meinen Laptop mit."
+      ],
+      ["vergessen", "to forget", null, "Bitte vergiss nichts!"],
+      ["besuchen", "to visit", null, "Tim besucht Celia im Krankenhaus."]
+    ],
+    "Adjektive": [
+      ["stark", "strong", null, "Ich habe starke Schmerzen."],
+      ["gebrochen", "broken", null, "Der Knöchel ist gebrochen."],
+      ["erkältet", "having a cold", null, "Ich bin erkältet."],
+      ["schwach", "weak", null, "Ich fühle mich schwach."],
+      ["allergisch", "allergic", null, "Ich bin allergisch gegen …"],
+      ["nötig", "necessary", null, "Ist eine Operation nötig?"]
+    ],
+    "Ausdrücke": [
+      ["Gute Besserung!", "Get well soon!", null, "Gute Besserung!"],
+      [
+        "Kann ich etwas für dich tun?",
+        "Can I do something for you?",
+        null,
+        "Kann ich etwas für dich tun?"
+      ],
+      ["Wie geht es dir?", "How are you?", null, "Wie geht es dir?"],
+      ["Was ist passiert?", "What happened?", null, "Was ist passiert?"],
+      [
+        "Wo genau sind Sie?",
+        "Where exactly are you?",
+        null,
+        "Wo genau sind Sie?"
+      ],
+      [
+        "Haben Sie noch andere Verletzungen?",
+        "Do you have any other injuries?",
+        null,
+        "Haben Sie noch andere Verletzungen?"
+      ],
+      [
+        "Nehmen Sie regelmäßig Medikamente?",
+        "Do you take medication regularly?",
+        null,
+        "Nehmen Sie regelmäßig Medikamente?"
+      ],
+      [
+        "Haben Sie Allergien/Unverträglichkeiten?",
+        "Do you have allergies/intolerances?",
+        null,
+        "Haben Sie Allergien?"
+      ],
+      [
+        "Wir müssen operieren.",
+        "We have to operate.",
+        null,
+        "Wir müssen operieren."
+      ],
+      [
+        "Bitte vergiss nichts.",
+        "Please don’t forget anything.",
+        null,
+        "Bitte vergiss nichts."
+      ]
+    ]
+  },
+  "grammar": [
+    {
+      "title": "Futur mit „werden“",
+      "rules": "German uses **werden + Infinitiv** to talk about the future, especially for plans/predictions.\n\n**Form:** ich **werde** gehen, du **wirst** gehen, er/sie/es **wird** gehen, wir **werden** gehen, ihr **werdet** gehen, sie/Sie **werden** gehen.\n\nExamples from the lesson context:\n- Ich **werde** morgen zum Arzt **gehen**.\n- Wir **werden** Sie gleich **operieren**.\n- Du **wirst** bald wieder **gesund werden**.",
+      "exercises": [
+        [
+          "Setze „werden“ richtig ein: „Ich ___ morgen in die Notaufnahme ___ (gehen).“",
+          ["werde … gehen", "wirst … gehen", "wird … gehen", "werden … gehen"],
+          "werde … gehen",
+          "1. Person Singular → ich **werde**.",
+          "ICH = WERDE.",
+          "‘werden + Infinitiv’ forms the future: ich werde gehen."
+        ],
+        [
+          "Welche Form passt? „Sie (du) ___ gleich untersucht ___.“",
+          [
+            "wirst … werden",
+            "wirst … werden (untersucht)",
+            "wirst …",
+            "wirst … (werden)"
+          ],
+          "wirst … werden (untersucht)",
+          "Achte: Passiv-Formen sind möglich, aber hier reicht: „Du wirst …“. (B1: Fokus ‘wirst’).",
+          "DU = WIRST.",
+          "Choose ‘wirst’ for ‘du’. In hospital context you often hear ‘Du wirst gleich …’."
+        ],
+        [
+          "Korrigiere den Satz: „Wir wird Sie operieren.“",
+          [
+            "Wir werden Sie operieren.",
+            "Wir wirst Sie operieren.",
+            "Wir werde Sie operieren.",
+            "Wir wurden Sie operieren."
+          ],
+          "Wir werden Sie operieren.",
+          "wir → **werden**",
+          "WIR = WERDEN.",
+          "Subject ‘wir’ needs ‘werden’."
+        ],
+        [
+          "Welche Aussage ist korrekt?",
+          [
+            "Er werde morgen nach Hause gehen.",
+            "Er wird morgen nach Hause gehen.",
+            "Er werden morgen nach Hause gehen.",
+            "Er wirst morgen nach Hause gehen."
+          ],
+          "Er wird morgen nach Hause gehen.",
+          "er → **wird**",
+          "ER = WIRD.",
+          "3rd person singular takes ‘wird’."
+        ],
+        [
+          "Ergänze: „Ihr ___ bald wieder Sport ___ (machen).“",
+          [
+            "werdet … machen",
+            "werden … machen",
+            "wirst … machen",
+            "wird … machen"
+          ],
+          "werdet … machen",
+          "ihr → **werdet**",
+          "IHR = WERDET.",
+          "2nd person plural uses ‘werdet’ + infinitive."
+        ]
+      ]
+    },
+    {
+      "title": "Satz mit „um … zu“ und Frage „Wozu?“",
+      "rules": "Use **um … zu + Infinitiv** to express purpose (same subject in both parts).\n- Tim bringt den Laptop mit, **um** Filme **zu sehen**.\n- Celia braucht das Ladekabel, **um** ihr Handy **aufzuladen**.\n\nAsk about purpose with **Wozu …?**\n- **Wozu** brauchst du den Laptop? – **Um** Filme zu sehen.",
+      "exercises": [
+        [
+          "Wähle die richtige Ergänzung: „Tim bringt Kopfhörer mit, ___ Celia Musik hören kann.“",
+          ["um", "um … zu", "wozu", "bis"],
+          "um … zu",
+          "Ziel/Absicht + Infinitiv mit „zu“.",
+          "UM = ZWECK.",
+          "Use ‘um … zu’ to express purpose."
+        ],
+        [
+          "Ordne richtig: „Celia braucht das Ladekabel, ___ .“",
+          [
+            "um ihr Handy aufzuladen",
+            "wozu ihr Handy aufzuladen",
+            "bis ihr Handy aufzuladen",
+            "um ihr Handy aufladen"
+          ],
+          "um ihr Handy aufzuladen",
+          "Infinitiv mit **zu**: auf**zu**laden.",
+          "AUFLADEN → AUFZULADEN.",
+          "After ‘um’ you need ‘zu + infinitive’ (often inside separable verbs)."
+        ],
+        [
+          "Welche Frage passt? Antwort: „Um Filme zu sehen.“",
+          [
+            "Wohin brauchst du den Laptop?",
+            "Wozu brauchst du den Laptop?",
+            "Wann brauchst du den Laptop?",
+            "Wer braucht den Laptop?"
+          ],
+          "Wozu brauchst du den Laptop?",
+          "Wozu = Zweck.",
+          "WOZU = WHY/FOR WHAT PURPOSE.",
+          "‘Wozu’ asks for purpose; answer often starts with ‘Um … zu …’."
+        ],
+        [
+          "Korrigiere: „Ich brauche Handcreme, um meine Hände nicht trocken sind.“",
+          [
+            "Ich brauche Handcreme, um meine Hände nicht trocken zu haben.",
+            "Ich brauche Handcreme, um meine Hände nicht trocken sind.",
+            "Ich brauche Handcreme, wozu meine Hände nicht trocken sind.",
+            "Ich brauche Handcreme, bis meine Hände nicht trocken sind."
+          ],
+          "Ich brauche Handcreme, um meine Hände nicht trocken zu haben.",
+          "Nach „um“ kommt Infinitiv, nicht ein normaler Nebensatz.",
+          "UM → INFINITIV.",
+          "‘um’ requires an infinitive construction (‘zu haben’), not a finite verb."
+        ],
+        [
+          "Bilde einen Satz mit „um … zu“: (Laptop / Filme sehen)",
+          [
+            "Ich brauche den Laptop, um Filme zu sehen.",
+            "Ich brauche den Laptop, wozu Filme zu sehen.",
+            "Ich brauche den Laptop, um ich Filme sehe.",
+            "Ich brauche den Laptop, bis ich Filme sehe."
+          ],
+          "Ich brauche den Laptop, um Filme zu sehen.",
+          "Gleiches Subjekt → um … zu.",
+          "GLEICHES SUBJEKT = UM … ZU.",
+          "Use ‘um … zu’ when the subject is the same in both parts."
+        ]
+      ]
+    },
+    {
+      "title": "W-Fragen im Notfall (Wo? Wohin? Was? Welche?)",
+      "rules": "In emergency calls and in the ER, you often answer direct **W-questions**.\n- **Was** ist passiert?\n- **Wo** sind Sie? / **Wo genau** sind Sie?\n- **Wohin** soll der Krankenwagen kommen?\n- **Welche** Verletzungen haben Sie?\n- **Haben Sie** noch andere Verletzungen?\n\nTip: In German, question word usually comes first, then verb (V2).",
+      "exercises": [
+        [
+          "Wähle die richtige Frage zur Situation: Du willst den Ort wissen.",
+          [
+            "Was ist passiert?",
+            "Wo genau sind Sie?",
+            "Welche Verletzungen haben Sie?",
+            "Haben Sie Medikamente genommen?"
+          ],
+          "Wo genau sind Sie?",
+          "Ort = Wo?",
+          "WO = ORT.",
+          "Use ‘Wo genau sind Sie?’ to ask for location."
+        ],
+        [
+          "Welche Frage passt zur Antwort: „Ich bin in der Heinrich-Böll-Straße.“",
+          [
+            "Was ist passiert?",
+            "Wo sind Sie?",
+            "Wohin fahren Sie?",
+            "Welche Etage ist das?"
+          ],
+          "Wo sind Sie?",
+          "Adresse = Ort.",
+          "ADRESSE → WO.",
+          "The answer is a location, so the correct question is ‘Wo …?’"
+        ],
+        [
+          "Welche Form ist korrekt?",
+          [
+            "Welche passiert ist?",
+            "Was ist passiert?",
+            "Was passiert ist?",
+            "Was ist passiertet?"
+          ],
+          "Was ist passiert?",
+          "Perfekt: ist passiert.",
+          "PASSIEREN → IST PASSIERT.",
+          "Correct perfect tense question is ‘Was ist passiert?’"
+        ],
+        [
+          "Wähle: Du möchtest wissen, welche Verletzungen jemand hat.",
+          [
+            "Welche Verletzungen haben Sie?",
+            "Wo Verletzungen haben Sie?",
+            "Wohin Verletzungen haben Sie?",
+            "Was Verletzungen haben Sie?"
+          ],
+          "Welche Verletzungen haben Sie?",
+          "‘Welche’ + Nomen.",
+          "WELCHE + NOUN.",
+          "Use ‘Welche’ to ask which injuries (plural noun)."
+        ],
+        [
+          "Setze das Verb richtig: „___ Sie Allergien?“",
+          ["Haben", "Bist", "Wirst", "Seid"],
+          "Haben",
+          "Allergien (Plural) + haben.",
+          "ALLERGIEN → HABEN.",
+          "Standard medical question: ‘Haben Sie Allergien?’"
+        ]
+      ]
+    }
+  ],
+  "imageThemes": [
+    "Notfall auf der Treppe mit Verletzung (Sturz, Blut, Krankenwagen, Notruf 112)",
+    "In der Notaufnahme (Formular, Fragen zu Allergien/Medikamenten, Untersuchungen)",
+    "Besuch im Krankenhaus (Wegweiser mit Stationen/Etagen, Patient im Bett, Dinge mitbringen)"
+  ]
+}

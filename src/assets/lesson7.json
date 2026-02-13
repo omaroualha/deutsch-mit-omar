@@ -1,0 +1,1213 @@
+{
+  "title": "Alles für die Umwelt",
+  "subtitle": "Kapitel 7",
+  "vocabulary": {
+    "Nomen (Umwelt & Müll)": [
+      [
+        "der Abfall, -fälle",
+        "waste / trash",
+        "m",
+        "In Deutschland trennt man den Abfall."
+      ],
+      [
+        "der Müll, -",
+        "trash",
+        "m",
+        "Oh Mann, da ist schon wieder so viel Müll!"
+      ],
+      [
+        "der Papiermüll, -",
+        "paper waste",
+        "m",
+        "Wir sollten nicht nur den Papiermüll trennen."
+      ],
+      [
+        "der Plastikmüll, -",
+        "plastic waste",
+        "m",
+        "So vermeidet man unnötigen Plastikmüll."
+      ],
+      [
+        "das Plastik, -",
+        "plastic",
+        "n",
+        "Wir trennen Papier, Glas und Plastik."
+      ],
+      ["das Papier, -e", "paper", "n", "Papier gehört in die Papiertonne."],
+      ["das Glas, Gläser", "glass", "n", "Glas wird getrennt gesammelt."],
+      [
+        "die Mülltrennung, -en",
+        "waste separation",
+        "f",
+        "Die Mülltrennung macht das Sortieren einfacher."
+      ],
+      ["die Trennung, -en", "separation", "f", "Abfalltrennung ist wichtig."],
+      [
+        "das Sortieren, -",
+        "sorting",
+        "n",
+        "Mülltrennung macht das Sortieren einfacher."
+      ],
+      [
+        "das Recycling, -",
+        "recycling",
+        "n",
+        "Wir bringen Papier, Glas und Plastik zum Recycling."
+      ],
+      [
+        "die Plastikverpackung, -en",
+        "plastic packaging",
+        "f",
+        "Im Supermarkt gibt es viele Plastikverpackungen."
+      ],
+      [
+        "die Verpackung, -en",
+        "packaging",
+        "f",
+        "Ich achte auf die Verpackung: so wenig Plastik wie möglich!"
+      ],
+      [
+        "die Plastiktüte, -n",
+        "plastic bag",
+        "f",
+        "Viele Menschen wollen keine Plastiktüten verwenden."
+      ],
+      [
+        "die Stofftasche, -n",
+        "cloth bag",
+        "f",
+        "Zum Einkaufen nehme ich immer Stofftaschen."
+      ],
+      [
+        "die Pfandflasche, -n",
+        "deposit bottle",
+        "f",
+        "Mit Pfandflaschen vermeidet man Müll."
+      ],
+      [
+        "der Deckel, -",
+        "lid",
+        "m",
+        "Beim Kochen soll man einen Deckel auf den Topf tun."
+      ],
+      ["die Dose, -n", "can", "f", "Viele Getränke kauft man in Dosen."],
+      ["die Flasche, -n", "bottle", "f", "Flaschen bringt man zum Recycling."],
+      [
+        "das Getränk, -e",
+        "drink",
+        "n",
+        "Wenn man Getränke in Pfandflaschen kauft, vermeidet man Plastikmüll."
+      ],
+      ["die Idee, -n", "idea", "f", "Die Idee finde ich super!"],
+      [
+        "die Umwelt, -en",
+        "environment",
+        "f",
+        "Das ist schlecht für die Umwelt."
+      ],
+      [
+        "der Umweltschutz, -",
+        "environmental protection",
+        "m",
+        "Für den Umweltschutz wird nicht genug getan."
+      ]
+    ],
+    "Nomen (Energie & Haushalt)": [
+      ["die Energie, -n", "energy", "f", "Wir müssen Energie sparen."],
+      ["der Strom, -", "electricity", "m", "Strom ist so teuer!"],
+      [
+        "die Heizung, -en",
+        "heating",
+        "f",
+        "Strom und Heizung kosten viel Geld."
+      ],
+      [
+        "das Elektrogerät, -e",
+        "electrical appliance",
+        "n",
+        "Kontrollieren Sie die Energieklasse bei Ihren Elektrogeräten."
+      ],
+      [
+        "das Gerät, -e",
+        "device",
+        "n",
+        "Ein Gerät ist nicht ganz ausgeschaltet."
+      ],
+      [
+        "die Energieklasse, -n",
+        "energy efficiency class",
+        "f",
+        "Am besten ist Energieklasse A oder B."
+      ],
+      [
+        "der Stand-by-Modus, -",
+        "standby mode",
+        "m",
+        "Der Stand-by-Modus verbraucht auch Strom."
+      ],
+      [
+        "die Steckdose, -n",
+        "socket / outlet",
+        "f",
+        "Ziehen Sie den Stecker aus der Steckdose."
+      ],
+      ["der Stecker, -", "plug", "m", "Wir sollten immer den Stecker ziehen."],
+      [
+        "das Sparprogramm, -e",
+        "eco program",
+        "n",
+        "Ein Sparprogramm spart Energie."
+      ],
+      [
+        "die Waschmaschine, -n",
+        "washing machine",
+        "f",
+        "Die Waschmaschine hat ein Sparprogramm."
+      ],
+      [
+        "die Vorwäsche, -n",
+        "prewash",
+        "f",
+        "Mit einem Sparprogramm wäscht man auch ohne Vorwäsche sauber."
+      ],
+      [
+        "das Waschmittel, -",
+        "detergent",
+        "n",
+        "So spart man Waschmittel und Energie."
+      ],
+      [
+        "die Badewanne, -n",
+        "bathtub",
+        "f",
+        "Für eine volle Badewanne braucht man viel Wasser und Strom."
+      ],
+      ["das Wasser, -", "water", "n", "Duschen spart Wasser."],
+      [
+        "das Zimmer, -",
+        "room",
+        "n",
+        "Schalten Sie das Licht aus, wenn Sie aus dem Zimmer gehen."
+      ],
+      [
+        "die Lampe, -n",
+        "lamp",
+        "f",
+        "Lampen sollen nur dort an sein, wo Menschen sind."
+      ],
+      [
+        "das Licht, -er",
+        "light",
+        "n",
+        "Wir machen doch schon immer das Licht aus."
+      ],
+      [
+        "das Fenster, -",
+        "window",
+        "n",
+        "Öffnen Sie die Fenster für ein paar Minuten ganz."
+      ],
+      [
+        "der Pulli, -s",
+        "pullover",
+        "m",
+        "An kalten Tagen ziehe ich einen Pulli an."
+      ],
+      [
+        "der Schreibtisch, -e",
+        "desk",
+        "m",
+        "Im Winter sitze ich mit einem dicken Pulli am Schreibtisch."
+      ],
+      ["die Erde, -n", "Earth", "f", "Wir haben schließlich nur eine Erde."]
+    ],
+    "Nomen (Bauernhof & Ökohof)": [
+      [
+        "der Bauernhof, -höfe",
+        "farm",
+        "m",
+        "Auf dem Bauernhof muss man viel organisieren."
+      ],
+      [
+        "der Ökohof, -höfe",
+        "organic farm",
+        "m",
+        "Der Ökohof produziert Obst, Gemüse und Käse."
+      ],
+      [
+        "der Hofladen, -läden",
+        "farm shop",
+        "m",
+        "Man kann es im Hofladen kaufen."
+      ],
+      [
+        "die Bäuerin, -nen",
+        "female farmer",
+        "f",
+        "Die Bäuerin arbeitet auf dem Hof."
+      ],
+      ["der Bauer, -n", "farmer", "m", "Der Bauer verkauft die Produkte."],
+      ["der Mist (Sg.), -", "manure", "m", "Auf dem Hof gibt es Mist."],
+      [
+        "die Wiese, -n",
+        "meadow",
+        "f",
+        "Jeden Morgen bringe ich die Tiere auf die Wiese."
+      ],
+      [
+        "das Gras (Sg.), -",
+        "grass",
+        "n",
+        "Auf der Wiese fressen die Tiere Gras."
+      ],
+      [
+        "der Boden, Böden",
+        "soil / ground",
+        "m",
+        "Wenn der Boden zu trocken ist, muss man gießen."
+      ],
+      [
+        "die Pflanze, -n",
+        "plant",
+        "f",
+        "Die Pflanzen werden regelmäßig gegossen."
+      ],
+      [
+        "das Pferd, -e",
+        "horse",
+        "n",
+        "Mit den Pferden arbeitet man auf dem Feld."
+      ],
+      [
+        "die Kuh, Kühe",
+        "cow",
+        "f",
+        "Aus der Milch von Kühen stellen wir Käse her."
+      ],
+      ["das Schwein, -e", "pig", "n", "Auf dem Hof gibt es Schweine."],
+      ["die Maus, Mäuse", "mouse", "f", "Eine Maus läuft über den Hof."],
+      ["das Huhn, Hühner", "chicken", "n", "Auf dem Hof laufen Hühner herum."],
+      ["der Hund, -e", "dog", "m", "Der Hund passt auf."],
+      [
+        "das Obst (Sg.), -",
+        "fruit",
+        "n",
+        "Obst wird in der Saison frisch geerntet."
+      ],
+      [
+        "das Gemüse, -",
+        "vegetables",
+        "n",
+        "Gemüse wird auf dem Markt verkauft."
+      ],
+      ["der Käse (Sg.), -", "cheese", "m", "Aus Milch wird Käse hergestellt."],
+      [
+        "die Milch (Sg.), -",
+        "milk",
+        "f",
+        "Aus der Milch stellen wir Käse her."
+      ],
+      ["die Saison, -s", "season", "f", "In der Saison wird täglich geerntet."],
+      [
+        "das Produkt, -e",
+        "product",
+        "n",
+        "Außerdem werden unsere Produkte auf dem Markt verkauft."
+      ],
+      ["der Markt, Märkte", "market", "m", "Auf dem Markt wird Obst verkauft."],
+      ["die Ernte, -n", "harvest", "f", "Freiwillige helfen bei der Ernte."],
+      [
+        "der Traktor, -en",
+        "tractor",
+        "m",
+        "Früher brauchte man schwere Traktoren."
+      ],
+      ["der Kuchen, -", "cake", "m", "Den Kuchen backe ich immer selbst."],
+      ["der Kaffee, -s", "coffee", "m", "Im Hofladen kann man Kaffee trinken."],
+      [
+        "die Kundin, -nen",
+        "female customer",
+        "f",
+        "Ich berate die Kundinnen im Hofladen."
+      ],
+      [
+        "der Kunde, -n",
+        "male customer",
+        "m",
+        "Ich berate die Kunden im Hofladen."
+      ],
+      ["die Rechnung, -en", "invoice / bill", "f", "Ich überweise Rechnungen."],
+      ["das Material, -ien", "material", "n", "Ich bestelle Material."],
+      [
+        "die Bäckerei, -en",
+        "bakery",
+        "f",
+        "Der Kuchen wird aus der Bäckerei geholt."
+      ],
+      ["der Stall, Ställe", "stable", "m", "Die Kühe bleiben im Stall."],
+      [
+        "die Kamera, -s",
+        "camera",
+        "f",
+        "Alles wird mit einer Kamera kontrolliert."
+      ],
+      [
+        "die Tomate, -n",
+        "tomato",
+        "f",
+        "Tomaten werden auf dem Markt verkauft."
+      ],
+      [
+        "die Zwiebel, -n",
+        "onion",
+        "f",
+        "Die Zwiebeln werden gründlich geputzt."
+      ],
+      ["der Honig (Sg.), -", "honey", "m", "Honig wird am Stand verkauft."],
+      [
+        "der Reis (Sg.), -",
+        "rice",
+        "m",
+        "In meiner Heimat wird viel Reis angebaut."
+      ],
+      ["die Banane, -n", "banana", "f", "Wir exportieren Bananen."]
+    ],
+    "Nomen (Klima & Klimakrise)": [
+      ["das Klima, -", "climate", "n", "Das Klima ändert sich."],
+      [
+        "die Klimakrise, -n",
+        "climate crisis",
+        "f",
+        "Wir suchen Wege aus der Klimakrise."
+      ],
+      [
+        "der Klimawandel (Sg.), -",
+        "climate change",
+        "m",
+        "Klimawandel führt zu mehr Katastrophen."
+      ],
+      [
+        "die Klimakatastrophe, -n",
+        "climate catastrophe",
+        "f",
+        "Jede Person kann helfen, die Klimakatastrophe zu verhindern."
+      ],
+      [
+        "die Katastrophe, -n",
+        "catastrophe",
+        "f",
+        "Wir wollen Katastrophen verhindern."
+      ],
+      [
+        "die Solaranlage, -n",
+        "solar system",
+        "f",
+        "Mit einer Solaranlage kann man Strom erzeugen."
+      ],
+      [
+        "das Fleisch (Sg.), -",
+        "meat",
+        "n",
+        "Weniger Fleisch zu essen ist gut fürs Klima."
+      ],
+      [
+        "die Wurstware, -n",
+        "sausage products",
+        "f",
+        "Die Produktion von Fleisch und Wurstwaren ist schädlich."
+      ],
+      ["das Gemüse, -", "vegetables", "n", "Man kann mehr Gemüse essen."],
+      [
+        "die Abgase (Pl.), -",
+        "exhaust fumes",
+        "pl",
+        "Autos produzieren umweltschädliche Abgase."
+      ],
+      [
+        "das Benzin (Sg.), -",
+        "gasoline",
+        "n",
+        "Das Auto ist mit Benzin gefahren."
+      ],
+      [
+        "der Diesel (Sg.), -",
+        "diesel",
+        "m",
+        "Fahrzeuge, die Diesel tanken, produzieren Abgase."
+      ],
+      ["das Fahrzeug, -e", "vehicle", "n", "Fahrzeuge brauchen Energie."],
+      [
+        "das Elektroauto, -s",
+        "electric car",
+        "n",
+        "Auch Elektroautos brauchen Energie."
+      ],
+      [
+        "das Tempolimit, -s",
+        "speed limit",
+        "n",
+        "In Deutschland diskutiert man ein Tempolimit."
+      ],
+      [
+        "die Geschwindigkeitsbeschränkung, -en",
+        "speed restriction",
+        "f",
+        "Mit Geschwindigkeitsbeschränkungen spart man CO₂."
+      ],
+      ["das CO₂ (Sg.), -", "CO₂", "n", "Man kann viel CO₂ einsparen."],
+      ["der Sturm, Stürme", "storm", "m", "Es gibt weltweit mehr Stürme."],
+      ["das Feuer, -", "fire", "n", "Es gibt Feuer in den Wäldern."],
+      ["der Wald, Wälder", "forest", "m", "Feuer brennt in den Wäldern."],
+      ["der Regen (Sg.), -", "rain", "m", "Es gibt sehr starken Regen."],
+      [
+        "die Überschwemmung, -en",
+        "flood",
+        "f",
+        "Starker Regen führt zu Überschwemmungen."
+      ],
+      ["die Hitze (Sg.), -", "heat", "f", "Im Sommer ist es extrem heiß."],
+      ["die Temperatur, -en", "temperature", "f", "Die Temperatur steigt."],
+      ["die Dürre, -n", "drought", "f", "Dürre ist ein Problem fürs Klima."],
+      [
+        "die Ressource, -n",
+        "resource",
+        "f",
+        "Jeans brauchen viele Ressourcen."
+      ],
+      [
+        "das Kleidungsstück, -e",
+        "piece of clothing",
+        "n",
+        "Kleidungsstücke verbrauchen viel Energie bei der Herstellung."
+      ],
+      [
+        "die Herstellung, -en",
+        "production / manufacturing",
+        "f",
+        "Bei der Herstellung braucht man Wasser und Energie."
+      ],
+      [
+        "die Produktion, -en",
+        "production",
+        "f",
+        "Die Produktion von Fleisch ist schädlich."
+      ],
+      ["das Gebäude, -", "building", "n", "Gebäude brauchen viel Energie."],
+      ["die WG, -s", "shared flat", "f", "Mehr Menschen sollten in WGs leben."],
+      [
+        "das Ein-Zimmer-Apartment, -s",
+        "studio apartment",
+        "n",
+        "Weniger Menschen sollten in Ein-Zimmer-Apartments wohnen."
+      ],
+      [
+        "der Brennstoff, -e",
+        "fuel",
+        "m",
+        "Heizungen funktionieren oft mit Brennstoffen."
+      ],
+      ["das Öl (Sg.), -e", "oil", "n", "Öl ist ein Brennstoff."],
+      ["das Gas, -e", "gas", "n", "Gas ist ein Brennstoff."],
+      ["das Holz (Sg.), -", "wood", "n", "Holz wird als Brennstoff benutzt."],
+      ["die Wärme (Sg.), -", "heat", "f", "Heizungen erzeugen Wärme."],
+      [
+        "die Wissenschaft (Sg.), -",
+        "science",
+        "f",
+        "Die Wissenschaft wird neue Lösungen finden."
+      ],
+      [
+        "die Lösung, -en",
+        "solution",
+        "f",
+        "Technische Lösungen können helfen."
+      ],
+      [
+        "die öffentlichen Verkehrsmittel (Pl.), -",
+        "public transport",
+        "pl",
+        "Wir sollten öfter öffentliche Verkehrsmittel benutzen."
+      ],
+      [
+        "der Urlaub, -e",
+        "vacation",
+        "m",
+        "Urlaub in der Nähe ist besser fürs Klima."
+      ],
+      [
+        "das Fliegen (Sg.), -",
+        "flying",
+        "n",
+        "Auf das Fliegen sollte man verzichten."
+      ]
+    ],
+    "Nomen (Redemittel & Diskussion)": [
+      [
+        "die Meinung, -en",
+        "opinion",
+        "f",
+        "Meiner Meinung nach ist das anders."
+      ],
+      [
+        "der Zweifel, -",
+        "doubt",
+        "m",
+        "Ich bin nicht sicher, ob das funktioniert."
+      ],
+      ["das Gesetz, -e", "law", "n", "Man braucht mehr Regeln und Gesetze."],
+      ["die Regel, -n", "rule", "f", "Mehr Regeln können das Klima schützen."],
+      [
+        "die Demonstration, -en",
+        "demonstration",
+        "f",
+        "Manche finden Demonstrationen wichtig."
+      ],
+      [
+        "das Praktikum, Praktika",
+        "internship",
+        "n",
+        "Ein Praktikum hilft, den richtigen Beruf zu finden."
+      ],
+      [
+        "der Beruf, -e",
+        "job / profession",
+        "m",
+        "So findet man den richtigen Beruf."
+      ],
+      [
+        "das Schuljahr, -e",
+        "school year",
+        "n",
+        "Man könnte Zeit im Schuljahr für Umweltaktionen nutzen."
+      ],
+      [
+        "die Umweltaktion, -en",
+        "environmental action",
+        "f",
+        "Schüler nutzen Zeit für Umweltaktionen."
+      ],
+      [
+        "die Bezahlung (Sg.), -en",
+        "payment",
+        "f",
+        "Im Praktikum arbeiten viele ohne Bezahlung."
+      ],
+      [
+        "der Arbeitsplatz, -plätze",
+        "job / workplace",
+        "m",
+        "Auch ohne Praktika gäbe es nicht mehr Arbeitsplätze."
+      ],
+      [
+        "die Ferien (Pl.), -",
+        "school holidays",
+        "pl",
+        "Schüler sollen nicht in den Ferien arbeiten."
+      ]
+    ],
+    "Nomen (Wortbildung -ung)": [
+      [
+        "die Begründung, -en",
+        "reasoning / justification",
+        "f",
+        "Bitte schreiben Sie eine Begründung."
+      ],
+      [
+        "die Einführung, -en",
+        "introduction / implementation",
+        "f",
+        "Die Einführung neuer Regeln dauert."
+      ],
+      [
+        "die Entwicklung, -en",
+        "development",
+        "f",
+        "Die Entwicklung neuer Technik ist wichtig."
+      ],
+      [
+        "die Erfindung, -en",
+        "invention",
+        "f",
+        "Diese Erfindung spart Energie."
+      ],
+      [
+        "die Forderung, -en",
+        "demand",
+        "f",
+        "Es gibt Forderungen nach einem Tempolimit."
+      ],
+      [
+        "die Hoffnung, -en",
+        "hope",
+        "f",
+        "Ich habe Hoffnung auf bessere Lösungen."
+      ],
+      [
+        "die Kündigung, -en",
+        "termination / cancellation",
+        "f",
+        "Die Kündigung kam per Post."
+      ],
+      [
+        "die Meldung, -en",
+        "report / message",
+        "f",
+        "Im Radio kommt eine Meldung zur Klimakrise."
+      ],
+      [
+        "die Störung, -en",
+        "disturbance / outage",
+        "f",
+        "Es gibt eine Störung im Verkehr."
+      ],
+      [
+        "die Unterhaltung, -en",
+        "entertainment / conversation",
+        "f",
+        "Die Unterhaltung war sehr interessant."
+      ],
+      [
+        "die Forschung (Sg.), -en",
+        "research",
+        "f",
+        "Die Forschung sucht neue Lösungen."
+      ],
+      [
+        "die Leitung, -en",
+        "management / line / leadership",
+        "f",
+        "Die Leitung informiert das Team."
+      ],
+      [
+        "die Ordnung, -en",
+        "order / tidiness",
+        "f",
+        "Ordnung hilft beim Sortieren."
+      ],
+      [
+        "die Rechnung, -en",
+        "bill / invoice",
+        "f",
+        "Die Rechnung bezahle ich online."
+      ],
+      [
+        "die Übersetzung, -en",
+        "translation",
+        "f",
+        "Die Übersetzung ist nicht einfach."
+      ],
+      ["die Überraschung, -en", "surprise", "f", "Das war eine Überraschung!"]
+    ],
+    "Verben": [
+      [
+        "den Abfall trennen",
+        "to separate waste",
+        null,
+        "In Deutschland trennt man den Abfall."
+      ],
+      ["recyceln", "to recycle", null, "Wir recyceln Glas und Papier."],
+      [
+        "(zum Recycling) bringen",
+        "to bring (to recycling)",
+        null,
+        "Wir bringen Papier, Glas und Plastik zum Recycling."
+      ],
+      [
+        "(eine) Stofftasche benutzen",
+        "to use a cloth bag",
+        null,
+        "Zum Einkaufen benutze ich eine Stofftasche."
+      ],
+      [
+        "Plastikverpackung vermeiden",
+        "to avoid plastic packaging",
+        null,
+        "Ich versuche, Plastikverpackung zu vermeiden."
+      ],
+      ["heizen", "to heat", null, "Im Winter muss man heizen."],
+      ["Energie sparen", "to save energy", null, "Wir müssen Energie sparen."],
+      [
+        "Strom verbrauchen",
+        "to use/consume electricity",
+        null,
+        "Geräte verbrauchen auch im Stand-by Strom."
+      ],
+      [
+        "einen Stecker ziehen",
+        "to unplug",
+        null,
+        "Ziehen Sie den Stecker aus der Steckdose."
+      ],
+      ["ausschalten", "to switch off", null, "Schalten Sie das Licht aus."],
+      ["duschen", "to shower", null, "Duschen Sie lieber kurz."],
+      [
+        "baden",
+        "to bathe",
+        null,
+        "Man soll nicht baden, sondern lieber duschen."
+      ],
+      ["lüften", "to air out", null, "Lüften Sie mehrmals täglich."],
+      [
+        "Fenster öffnen",
+        "to open windows",
+        null,
+        "Öffnen Sie die Fenster für ein paar Minuten."
+      ],
+      ["anbauen", "to cultivate", null, "Wir bauen Gemüse an."],
+      ["pflanzen", "to plant", null, "Ich pflanze Tomaten."],
+      ["gießen", "to water", null, "Wir gießen die Pflanzen."],
+      ["ernten", "to harvest", null, "Obst und Gemüse werden geerntet."],
+      ["verkaufen", "to sell", null, "Das Gemüse wird auf dem Markt verkauft."],
+      [
+        "herstellen",
+        "to produce / manufacture",
+        null,
+        "Aus der Milch wird Käse hergestellt."
+      ],
+      ["abholen", "to pick up", null, "Die Ware wird morgens abgeholt."],
+      ["beraten", "to advise", null, "Kundinnen und Kunden werden beraten."],
+      ["bestellen", "to order", null, "Ich bestelle Material."],
+      ["überweisen", "to transfer (money)", null, "Ich überweise Rechnungen."],
+      [
+        "(auf etw.) achten",
+        "to pay attention to",
+        null,
+        "Ich achte auf die Verpackung."
+      ],
+      [
+        "(öffentliche Verkehrsmittel) benutzen",
+        "to use (public transport)",
+        null,
+        "Wir sollten öfter öffentliche Verkehrsmittel benutzen."
+      ],
+      [
+        "(auf etw.) verzichten",
+        "to do without / renounce",
+        null,
+        "Viele wollen auf das Fliegen verzichten."
+      ],
+      [
+        "(Strom) erzeugen",
+        "to generate (electricity)",
+        null,
+        "Mit einer Solaranlage kann man Strom erzeugen."
+      ],
+      [
+        "(Katastrophen) verhindern",
+        "to prevent",
+        null,
+        "Jede Person kann helfen, Katastrophen zu verhindern."
+      ],
+      [
+        "(unter etw.) leiden",
+        "to suffer (from)",
+        null,
+        "Alte Menschen leiden unter der Hitze."
+      ],
+      [
+        "regional und saisonal einkaufen",
+        "to shop locally and seasonally",
+        null,
+        "Es ist hilfreich, regional und saisonal einzukaufen."
+      ],
+      [
+        "Flüge vermeiden",
+        "to avoid flights",
+        null,
+        "Wir sollten Flüge vermeiden."
+      ],
+      [
+        "recherchieren",
+        "to research",
+        null,
+        "Die Eltern haben viel im Internet recherchiert."
+      ],
+      [
+        "prüfen",
+        "to check",
+        null,
+        "Herr Müller prüft, ob die Geräte zu viel Energie verbrauchen."
+      ],
+      ["fahren", "to drive / go", null, "In den Urlaub fahren sie mit dem Zug."]
+    ],
+    "Adjektive": [
+      [
+        "umweltfreundlich",
+        "environmentally friendly",
+        null,
+        "Familie Müller möchte umweltfreundlicher leben."
+      ],
+      [
+        "regional",
+        "regional / local",
+        null,
+        "Regionale Produkte sind besser für die Umwelt."
+      ],
+      ["saisonal", "seasonal", null, "Kaufen Sie saisonale Produkte."],
+      ["schädlich", "harmful", null, "Abgase sind schädlich fürs Klima."],
+      ["teuer", "expensive", null, "Strom ist so teuer!"],
+      [
+        "trocken",
+        "dry",
+        null,
+        "Wenn der Boden zu trocken ist, müssen wir gießen."
+      ],
+      ["kalt", "cold", null, "An kalten Tagen ziehe ich einen Pulli an."],
+      ["heiß", "hot", null, "Im Sommer ist es extrem heiß."],
+      ["wichtig", "important", null, "Energiesparen finde ich total wichtig."],
+      [
+        "günstig",
+        "cheap / affordable",
+        null,
+        "Die gebrauchte Jeans war günstig."
+      ],
+      [
+        "gebraucht",
+        "used / second-hand",
+        null,
+        "Ich habe eine gebrauchte Jeans gekauft."
+      ],
+      [
+        "technisch",
+        "technical",
+        null,
+        "Es gibt technische Lösungen für die Klimakrise."
+      ],
+      ["ökologisch", "ecological", null, "Viele machen ein ökologisches Jahr."]
+    ],
+    "Ausdrücke": [
+      [
+        "Da stimme ich dir zu.",
+        "I agree with you.",
+        null,
+        "Da stimme ich dir zu."
+      ],
+      [
+        "Ja, da hast du recht.",
+        "Yes, you’re right.",
+        null,
+        "Ja, da hast du recht."
+      ],
+      [
+        "Das sehe ich auch so.",
+        "I see it the same way.",
+        null,
+        "Das sehe ich auch so."
+      ],
+      [
+        "Damit bin ich einverstanden.",
+        "I agree with that.",
+        null,
+        "Damit bin ich einverstanden."
+      ],
+      [
+        "Da muss ich dir widersprechen.",
+        "I have to disagree with you.",
+        null,
+        "Da muss ich dir widersprechen."
+      ],
+      [
+        "Das stimmt nur zum Teil.",
+        "That’s only partly true.",
+        null,
+        "Das stimmt nur zum Teil."
+      ],
+      [
+        "Ich bin auch der Meinung, dass …",
+        "I also think that …",
+        null,
+        "Ich bin auch der Meinung, dass wir mehr recyceln sollten."
+      ],
+      [
+        "Meiner Meinung nach ist das anders.",
+        "In my opinion, it’s different.",
+        null,
+        "Meiner Meinung nach ist das anders."
+      ],
+      [
+        "Ja, aber man darf auch nicht vergessen, dass …",
+        "Yes, but you mustn’t forget that …",
+        null,
+        "Ja, aber man darf auch nicht vergessen, dass …"
+      ],
+      [
+        "Ich weiß nicht, ob das etwas bringt.",
+        "I don’t know if that helps.",
+        null,
+        "Ich weiß nicht, ob das etwas bringt."
+      ],
+      [
+        "Das bringt doch nichts.",
+        "That doesn’t help anyway.",
+        null,
+        "Das bringt doch nichts."
+      ],
+      [
+        "Ich bezweifle, dass …",
+        "I doubt that …",
+        null,
+        "Ich bezweifle, dass das funktioniert."
+      ],
+      [
+        "Ich glaube nicht, dass das funktioniert.",
+        "I don’t think that works.",
+        null,
+        "Ich glaube nicht, dass das funktioniert."
+      ],
+      [
+        "Ich bin nicht sicher, ob …",
+        "I’m not sure whether …",
+        null,
+        "Ich bin nicht sicher, ob das klappt."
+      ],
+      [
+        "Ich denke, das klappt schon!",
+        "I think it’ll work!",
+        null,
+        "Ich denke, das klappt schon!"
+      ],
+      [
+        "Man muss es einfach mal ausprobieren.",
+        "You just have to try it.",
+        null,
+        "Man muss es einfach mal ausprobieren."
+      ],
+      [
+        "Man muss sich nur dazu entschließen.",
+        "You just have to decide to do it.",
+        null,
+        "Man muss sich nur dazu entschließen."
+      ],
+      [
+        "Aber wenn viele das machen, ändert sich schon etwas!",
+        "But if many do it, something will change!",
+        null,
+        "Aber wenn viele das machen, ändert sich schon etwas!"
+      ],
+      [
+        "Man sollte … verbieten.",
+        "One should ban …",
+        null,
+        "Man sollte Coffee-to-go verbieten."
+      ],
+      [
+        "Ich finde, wir sollten …",
+        "I think we should …",
+        null,
+        "Ich finde, wir sollten weniger Fleisch essen."
+      ],
+      [
+        "Ich finde sinnlos, dass …",
+        "I think it’s pointless that …",
+        null,
+        "Ich finde sinnlos, dass so viel Plastik benutzt wird."
+      ],
+      [
+        "Es muss nicht sein, dass …",
+        "It doesn’t have to be that …",
+        null,
+        "Es muss nicht sein, dass wir so viel fliegen."
+      ]
+    ]
+  },
+  "grammar": [
+    {
+      "title": "Passiv mit „werden“ (Vorgangspassiv)",
+      "rules": "Im **Passiv** ist wichtig, **was passiert** (nicht: wer es macht).\n\n**Form:** **werden** (Position 2) + **Partizip II** (am Satzende)\n- Die Ware **wird** morgens **abgeholt**.\n- Die Äpfel **werden** reif **geerntet**.\n- Das Gemüse **wird** auf dem Markt **verkauft**.\n- Die Pflanzen **werden** regelmäßig **gegossen**.\n\nOptional: „von + Dativ“ (Täter) nur, wenn wichtig:\n- Das Gemüse wird **von den Bauern** verkauft.",
+      "exercises": [
+        [
+          "Setze das Passiv ein: „Die Pflanzen ___ regelmäßig ___ (gießen).“",
+          [
+            "werden … gegossen",
+            "wird … gegossen",
+            "werden … gießen",
+            "wird … gießen"
+          ],
+          "werden … gegossen",
+          "Plural „die Pflanzen“ → **werden**.",
+          "PLURAL = WERDEN.",
+          "Vorgangspassiv: werden + Partizip II → werden gegossen."
+        ],
+        [
+          "Welche Satzform ist korrekt (Passiv)?",
+          [
+            "Das Gemüse verkauft auf dem Markt.",
+            "Das Gemüse wird auf dem Markt verkauft.",
+            "Das Gemüse ist auf dem Markt verkaufen.",
+            "Das Gemüse werden auf dem Markt verkauft."
+          ],
+          "Das Gemüse wird auf dem Markt verkauft.",
+          "Singular „das Gemüse“ → **wird**.",
+          "SINGULAR = WIRD.",
+          "Correct passive needs ‘wird’ + Partizip II at the end."
+        ],
+        [
+          "Bilde das Passiv: „Man holt die Ware morgens ab.“",
+          [
+            "Die Ware wird morgens abgeholt.",
+            "Die Ware hat morgens abgeholt.",
+            "Die Ware wird morgens abholen.",
+            "Die Ware werden morgens abgeholt."
+          ],
+          "Die Ware wird morgens abgeholt.",
+          "„die Ware“ = Singular → wird.",
+          "WARE = WIRD.",
+          "Passive replaces ‘man’ with the object as subject: wird + abgeholt."
+        ],
+        [
+          "Setze richtig ein: „Aus der Milch ___ Käse ___ (herstellen).“",
+          [
+            "wird … hergestellt",
+            "werden … hergestellt",
+            "ist … hergestellt",
+            "wird … herstellen"
+          ],
+          "wird … hergestellt",
+          "„Käse“ (Singular) → wird.",
+          "KÄSE = WIRD.",
+          "Passive: wird + hergestellt."
+        ],
+        [
+          "Welche Frage passt zum Passiv-Fokus?",
+          [
+            "Wer macht das?",
+            "Was passiert?",
+            "Warum macht er das?",
+            "Wen macht das?"
+          ],
+          "Was passiert?",
+          "Passiv = Handlung/Ergebnis wichtig.",
+          "PASSIV = WAS PASSIERT.",
+          "In passive sentences, the event/action is central, not the doer."
+        ]
+      ]
+    },
+    {
+      "title": "Zustimmen, widersprechen und abwägen (Redemittel in Diskussionen)",
+      "rules": "Beim Diskutieren nutzt man Redemittel, um **zuzustimmen**, **zu widersprechen** oder **abzuwägen**.\n\n**Zustimmen:**\n- „Da stimme ich dir zu.“ / „Ja, da hast du recht.“ / „Das sehe ich auch so.“ / „Damit bin ich einverstanden.“\n\n**Widersprechen:**\n- „Da muss ich dir widersprechen.“ / „Ich finde das keine gute Idee.“\n\n**Abwägen (teilweise zustimmen):**\n- „Das stimmt nur zum Teil.“ / „Ja, aber man darf auch nicht vergessen, dass …“",
+      "exercises": [
+        [
+          "Welche Antwort zeigt **Zustimmung**?",
+          [
+            "Da muss ich dir widersprechen.",
+            "Das stimmt nur zum Teil.",
+            "Da stimme ich dir zu.",
+            "Ich bezweifle, dass …"
+          ],
+          "Da stimme ich dir zu.",
+          "Suche klare Zustimmung ohne Einschränkung.",
+          "ZU = JA.",
+          "‘Da stimme ich dir zu’ is direct agreement."
+        ],
+        [
+          "Welche Antwort zeigt **Widerspruch**?",
+          [
+            "Das sehe ich auch so.",
+            "Da muss ich dir widersprechen.",
+            "Damit bin ich einverstanden.",
+            "Ja, da hast du recht."
+          ],
+          "Da muss ich dir widersprechen.",
+          "Widerspruch = Gegenposition.",
+          "WIDER = GEGEN.",
+          "This phrase explicitly signals disagreement."
+        ],
+        [
+          "Welche Aussage ist **Abwägen** (nicht 100% ja/nein)?",
+          [
+            "Das stimmt nur zum Teil.",
+            "Da stimme ich dir zu.",
+            "Ich finde das super!",
+            "Okay, gern."
+          ],
+          "Das stimmt nur zum Teil.",
+          "‘zum Teil’ = teilweise.",
+          "TEIL = PARTLY.",
+          "It shows partial agreement/nuance."
+        ],
+        [
+          "Ergänze passend: „Ja, aber man darf auch nicht vergessen, dass …“ gehört zu …",
+          ["Zustimmen", "Widersprechen", "Abwägen", "Befehl"],
+          "Abwägen",
+          "„Ja, aber …“ = Balance/Einwand.",
+          "JA-ABER = ABWÄGEN.",
+          "It accepts part of the point but adds a counter-aspect."
+        ],
+        [
+          "Wähle die beste Reaktion: Person A: „Ich allein kann doch nichts ändern!“",
+          [
+            "Da stimme ich dir zu.",
+            "Da muss ich dir widersprechen. Wenn alle ein bisschen was tun, dann können wir etwas verändern!",
+            "Das stimmt nur zum Teil.",
+            "Ich bin nicht sicher, ob …"
+          ],
+          "Da muss ich dir widersprechen. Wenn alle ein bisschen was tun, dann können wir etwas verändern!",
+          "Hier passt Motivation + Widerspruch.",
+          "WIDERSPRUCH + LÖSUNG.",
+          "You disagree and argue that collective action can change something."
+        ]
+      ]
+    },
+    {
+      "title": "Wortbildung: Nomen auf „-ung“",
+      "rules": "Mit der Endung **-ung** kann man aus Verben Nomen bilden. Diese Nomen haben **immer den Artikel „die“**.\n\nBeispiele:\n- begründen → **die Begründung**\n- trennen → **die Trennung**\n- heizen → **die Heizung**\n- herstellen → **die Herstellung**\n- lösen → **die Lösung**\n- übersetzen → **die Übersetzung**",
+      "exercises": [
+        [
+          "Bilde das Nomen auf -ung: „trennen → ___“",
+          ["die Trennung", "der Trennung", "das Trennung", "die Trennen"],
+          "die Trennung",
+          "Nomen auf -ung: immer **die**.",
+          "UNG = DIE.",
+          "The correct noun is ‘die Trennung’."
+        ],
+        [
+          "Welche Form ist richtig? „heizen → ___“",
+          ["die Heizung", "das Heizung", "der Heizung", "die Heizen"],
+          "die Heizung",
+          "Verb + -ung → Nomen.",
+          "HEIZEN → HEIZUNG.",
+          "Noun formed is ‘die Heizung’."
+        ],
+        [
+          "Setze das passende -ung-Nomen ein: „Bei der ___ von Jeans braucht man Wasser und Energie.“",
+          ["Herstellung", "herstellen", "herstellt", "hergestellte"],
+          "Herstellung",
+          "„Bei der …“ + Nomen (Dativ).",
+          "BEI DER = NOUN.",
+          "‘Herstellung’ is the noun; verb would be incorrect here."
+        ],
+        [
+          "Bilde das -ung-Nomen: „übersetzen → ___“",
+          [
+            "die Übersetzung",
+            "der Übersetzen",
+            "das Übersetzen",
+            "die Übersetzen"
+          ],
+          "die Übersetzung",
+          "Umlaut bleibt: über → Übersetzung.",
+          "ÜBER → ÜBERSETZUNG.",
+          "Correct noun is ‘die Übersetzung’."
+        ],
+        [
+          "Welche Aussage stimmt?",
+          [
+            "-ung-Nomen sind immer maskulin.",
+            "-ung-Nomen haben immer den Artikel „die“.",
+            "-ung-Nomen haben keinen Artikel.",
+            "Nur Adjektive können -ung bilden."
+          ],
+          "-ung-Nomen haben immer den Artikel „die“.",
+          "Merksatz aus dem Kapitel.",
+          "UNG = DIE.",
+          "In this lesson: -ung nouns are consistently feminine."
+        ]
+      ]
+    }
+  ],
+  "imageThemes": [
+    "Mülltrennung und Plastikverpackungen im Supermarkt (Recycling, Pfandflaschen, Stofftasche, Deckel auf dem Topf)",
+    "Energiesparen zu Hause (Stand-by, Stecker ziehen, Dusche statt Badewanne, Fenster lüften, Lampen/Licht aus)",
+    "Ökohof und Klimakrise (Bauernhof/Markt mit Obst & Gemüse, Passiv-Aktionen wie „Äpfel werden geerntet“, Solaranlage/Abgase/Überschwemmung)"
+  ]
+}

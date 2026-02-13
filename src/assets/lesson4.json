@@ -1,0 +1,360 @@
+{
+  "title": "Schmeckt's?",
+  "subtitle": "Kapitel 4",
+
+  "vocabulary": {
+    "Nomen (Ernährung & Gewohnheiten)": [
+      [
+        "die Essgewohnheit, -en",
+        "eating habit",
+        "f",
+        "Meine Essgewohnheiten haben sich stark verändert."
+      ],
+      [
+        "die Ernährung (kein Pl.)",
+        "nutrition / diet",
+        "f",
+        "Eine gesunde Ernährung ist wichtig."
+      ],
+      [
+        "die Ernährungsberatung (kein Pl.)",
+        "nutrition counseling",
+        "f",
+        "Sie geht zur Ernährungsberatung."
+      ],
+      [
+        "der Ernährungsberater, -",
+        "nutritionist (male)",
+        "m",
+        "Der Ernährungsberater erklärt den Speiseplan."
+      ],
+      [
+        "die Ernährungsberaterin, -nen",
+        "nutritionist (female)",
+        "f",
+        "Die Ernährungsberaterin gibt gute Tipps."
+      ],
+      [
+        "der Speiseplan, -pläne",
+        "meal plan / menu",
+        "m",
+        "Ich schreibe einen Speiseplan für die Woche."
+      ],
+      [
+        "die Zutat, -en",
+        "ingredient",
+        "f",
+        "Welche Zutaten brauchen wir für das Gericht?"
+      ],
+      [
+        "das Fertiggericht, -e",
+        "ready-made meal",
+        "n",
+        "Viele Leute kaufen Fertiggerichte."
+      ],
+      [
+        "die Süßigkeit, -en",
+        "sweet / candy",
+        "f",
+        "Zu viele Süßigkeiten sind ungesund."
+      ],
+      ["das Fett (kein Pl.)", "fat", "n", "Dieses Essen enthält viel Fett."],
+      [
+        "der Zucker (kein Pl.)",
+        "sugar",
+        "m",
+        "Ich versuche, weniger Zucker zu essen."
+      ],
+      [
+        "die Hälfte, -n",
+        "half",
+        "f",
+        "Die Hälfte der Gruppe isst vegetarisch."
+      ],
+      [
+        "ein Drittel (kein Pl.)",
+        "one third",
+        "n",
+        "Ein Drittel bestellt oft Essen."
+      ],
+      [
+        "ein Viertel (kein Pl.)",
+        "one quarter",
+        "n",
+        "Ein Viertel kocht täglich."
+      ]
+    ],
+
+    "Nomen (Orte & Situationen)": [
+      ["die Kantine, -n", "canteen", "f", "In der Kantine esse ich mittags."],
+      ["der Imbiss, -e", "snack bar", "m", "Am Imbiss kaufe ich einen Snack."],
+      ["das Buffet, -s", "buffet", "n", "Wir organisieren ein Buffet."],
+      [
+        "der Workshop, -s",
+        "workshop",
+        "m",
+        "Im Workshop sprechen wir über Ernährung."
+      ],
+      [
+        "der Vortrag, -träge",
+        "lecture / talk",
+        "m",
+        "Der Vortrag war sehr interessant."
+      ],
+      [
+        "die Einladung, -en",
+        "invitation",
+        "f",
+        "Danke für die Einladung zum Essen."
+      ]
+    ],
+
+    "Nomen (Gesundheit & Reaktionen)": [
+      [
+        "die Allergie, -n",
+        "allergy",
+        "f",
+        "Ich habe eine Allergie gegen Nüsse."
+      ],
+      [
+        "die Unverträglichkeit, -en",
+        "intolerance",
+        "f",
+        "Sie hat eine Laktose-Unverträglichkeit."
+      ],
+      [
+        "die Reaktion, -en",
+        "reaction",
+        "f",
+        "Die Reaktion auf das Essen war schlecht."
+      ]
+    ],
+
+    "Verben (B1 Alltag & Ernährung)": [
+      ["zubereiten", "to prepare", null, "Ich bereite das Abendessen zu."],
+      ["würzen", "to season", null, "Kannst du die Suppe würzen?"],
+      ["probieren", "to try / taste", null, "Probier mal den Kuchen!"],
+      ["schneiden", "to cut", null, "Er schneidet das Gemüse."],
+      [
+        "verzichten auf",
+        "to give up / abstain from",
+        null,
+        "Ich verzichte auf Zucker."
+      ],
+      ["zunehmen", "to gain weight", null, "Ich nehme schnell zu."],
+      ["abnehmen", "to lose weight", null, "Sie möchte abnehmen."],
+      ["einladen", "to invite", null, "Ich lade Freunde ein."],
+      ["mitbringen", "to bring along", null, "Bring bitte einen Salat mit."],
+      ["empfehlen", "to recommend", null, "Ich empfehle dieses Restaurant."]
+    ],
+
+    "Adjektive (B1 typisch)": [
+      ["abwechslungsreich", "varied", null, "Ich esse abwechslungsreich."],
+      [
+        "ausgewogen",
+        "balanced",
+        null,
+        "Eine ausgewogene Ernährung ist gesund."
+      ],
+      ["ungesund", "unhealthy", null, "Fast Food ist ungesund."],
+      ["gesund", "healthy", null, "Gemüse ist gesund."],
+      ["vegetarisch", "vegetarian", null, "Ich esse vegetarisch."],
+      ["vegan", "vegan", null, "Er lebt vegan."],
+      [
+        "gestresst",
+        "stressed",
+        null,
+        "Wenn ich gestresst bin, esse ich zu viel."
+      ]
+    ],
+
+    "Ausdrücke (B1 Prüfung Gold)": [
+      ["zwischendurch", "in between", null, "Zwischendurch esse ich Obst."],
+      [
+        "das ist mir wichtig",
+        "that is important to me",
+        null,
+        "Gesundes Essen ist mir wichtig."
+      ],
+      [
+        "Ich bin allergisch gegen ...",
+        "I am allergic to ...",
+        null,
+        "Ich bin allergisch gegen Nüsse."
+      ],
+      [
+        "Was hältst du davon, wenn ...?",
+        "What do you think if ...?",
+        null,
+        "Was hältst du davon, wenn wir zusammen kochen?"
+      ],
+      [
+        "Ich schlage vor, dass ...",
+        "I suggest that ...",
+        null,
+        "Ich schlage vor, dass wir ein Buffet machen."
+      ],
+      [
+        "Meiner Meinung nach ...",
+        "In my opinion ...",
+        null,
+        "Meiner Meinung nach ist Bio-Essen besser."
+      ]
+    ]
+  },
+
+  "grammar": [
+    {
+      "title": "deshalb / deswegen / trotzdem",
+      "rules": "These connectors are extremely important for B1 speaking & writing.\n\nReason → Result:\nIch habe keine Zeit. Deshalb bestelle ich Essen.\n\nContrast:\nIch habe keine Zeit. Trotzdem koche ich.",
+      "exercises": [
+        [
+          "Ich bin müde. ___ gehe ich zum Sport.",
+          ["Deshalb", "Trotzdem"],
+          "Trotzdem",
+          "Kontrast",
+          "trotz = gegen",
+          "Contrast → trotzdem"
+        ],
+        [
+          "Es ist ungesund. ___ esse ich es selten.",
+          ["Deshalb", "Trotzdem"],
+          "Deshalb",
+          "Grund → Ergebnis",
+          "deshalb = Ergebnis",
+          "Reason → result"
+        ],
+        [
+          "Welche Satzstellung ist korrekt?",
+          ["Deshalb ich koche.", "Deshalb koche ich."],
+          "Deshalb koche ich.",
+          "Verb Position",
+          "Verb nach deshalb",
+          "Verb second"
+        ],
+        [
+          "Ich habe Hunger. ___ mache ich ein Sandwich.",
+          ["deshalb", "trotzdem"],
+          "deshalb",
+          "logische Folge",
+          "Hunger → Essen",
+          "Logical result"
+        ],
+        [
+          "Ich habe viel Stress. Trotzdem ___ ich gesund.",
+          ["esse", "essen"],
+          "esse",
+          "Verb Position 2",
+          "Trotzdem + Verb",
+          "Correct verb position"
+        ]
+      ]
+    },
+
+    {
+      "title": "Obwohl (Kontrast Nebensatz)",
+      "rules": "Obwohl = although → verb goes to the end.\nExample: Obwohl ich wenig Zeit habe, koche ich.",
+      "exercises": [
+        [
+          "Obwohl ich krank ___, gehe ich arbeiten.",
+          ["bin", "war"],
+          "bin",
+          "Präsens",
+          "Verb ans Ende",
+          "Present tense"
+        ],
+        [
+          "Richtig?",
+          [
+            "Obwohl ich habe Hunger, esse ich nicht.",
+            "Obwohl ich Hunger habe, esse ich nicht."
+          ],
+          "Obwohl ich Hunger habe, esse ich nicht.",
+          "Verb-Ende",
+          "haben → Ende",
+          "Verb-final"
+        ],
+        [
+          "___ ich müde bin, lerne ich.",
+          ["Obwohl", "Deshalb"],
+          "Obwohl",
+          "Kontrast",
+          "Obwohl = trotz",
+          "Contrast connector"
+        ],
+        [
+          "Obwohl es regnet, ___ wir spazieren.",
+          ["gehen", "gingen"],
+          "gehen",
+          "Präsens",
+          "Zeitform gleich",
+          "Correct tense"
+        ],
+        [
+          "Welche Struktur?",
+          [
+            "Obwohl ich lerne, ich bin müde.",
+            "Obwohl ich lerne, bin ich müde."
+          ],
+          "Obwohl ich lerne, bin ich müde.",
+          "Inversion",
+          "Nebensatz zuerst",
+          "Verb second"
+        ]
+      ]
+    },
+
+    {
+      "title": "Präteritum wichtiger Verben",
+      "rules": "sein → war, haben → hatte, wissen → wusste, denken → dachte\nUseful for stories & reading.",
+      "exercises": [
+        [
+          "Gestern ___ ich keine Zeit.",
+          ["war", "hatte"],
+          "hatte",
+          "haben",
+          "hatte = had",
+          "Past of haben"
+        ],
+        [
+          "Ich ___, dass es ungesund war.",
+          ["wusste", "weiß"],
+          "wusste",
+          "wissen",
+          "wusste = knew",
+          "Past knowledge"
+        ],
+        [
+          "Er ___ sehr müde.",
+          ["war", "ist"],
+          "war",
+          "sein",
+          "war = was",
+          "Past of sein"
+        ],
+        [
+          "Ich ___ an dich.",
+          ["dachte", "denke"],
+          "dachte",
+          "denken",
+          "dachte = thought",
+          "Past thought"
+        ],
+        [
+          "Wir ___ Hunger.",
+          ["hatten", "haben"],
+          "hatten",
+          "Plural",
+          "wir → hatten",
+          "Past plural"
+        ]
+      ]
+    }
+  ],
+
+  "imageThemes": [
+    "Gesunde vs ungesunde Ernährung (Fast Food / ausgewogenes Essen)",
+    "Mitbring-Buffet / Einladung / Freunde kochen zusammen",
+    "Ernährungsberatung / Workshop über Essgewohnheiten"
+  ]
+}

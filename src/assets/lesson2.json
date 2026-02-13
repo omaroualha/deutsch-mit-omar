@@ -1,0 +1,835 @@
+{
+  "title": "Hier kaufe ich ein.",
+  "subtitle": "Kapitel 2",
+  "vocabulary": {
+    "Nomen (Einkaufen & Orte)": [
+      [
+        "der Supermarkt, -märkte",
+        "supermarket",
+        "m",
+        "Ich kaufe meistens im Supermarkt ein, weil es dort alles gibt."
+      ],
+      [
+        "der Markt, -märkte",
+        "market",
+        "m",
+        "Auf dem Markt ist das Obst oft sehr frisch."
+      ],
+      [
+        "die Bäckerei, -en",
+        "bakery",
+        "f",
+        "In der Bäckerei kaufe ich Brot und Brötchen."
+      ],
+      [
+        "das Kleidergeschäft, -e",
+        "clothing shop",
+        "n",
+        "Im Kleidergeschäft suche ich einen Mantel."
+      ],
+      [
+        "der Elektronikmarkt, -märkte",
+        "electronics store",
+        "m",
+        "Im Elektronikmarkt brauche ich eine Tastatur."
+      ],
+      [
+        "die Apotheke, -n",
+        "pharmacy",
+        "f",
+        "In der Apotheke kaufe ich Hustensaft."
+      ],
+      [
+        "die Post (kein Pl.)",
+        "post office",
+        "f",
+        "Auf der Post kaufe ich Briefmarken."
+      ],
+      ["der Kiosk, -e", "kiosk", "m", "Am Kiosk kaufe ich eine Zeitung."],
+      [
+        "der Automat, -en",
+        "vending machine / ticket machine",
+        "m",
+        "Am Automaten hole ich eine Fahrkarte."
+      ],
+      [
+        "das Einkaufszentrum, -zentren",
+        "shopping center",
+        "n",
+        "Im Einkaufszentrum gibt es viele Läden."
+      ],
+      [
+        "der Empfang (kein Pl.)",
+        "reception / front desk",
+        "m",
+        "Am Empfang bestätige ich den Termin."
+      ],
+      [
+        "die Öffnungszeit, -en",
+        "opening hours",
+        "f",
+        "Ich schaue immer auf die Öffnungszeiten."
+      ],
+      [
+        "das Sonderangebot, -e",
+        "special offer",
+        "n",
+        "Heute gibt es ein Sonderangebot für Obst."
+      ],
+      [
+        "die Auswahl (kein Pl.)",
+        "selection",
+        "f",
+        "Der Supermarkt hat eine große Auswahl."
+      ],
+      [
+        "die Warteschlange, -n",
+        "queue",
+        "f",
+        "Ich ärgere mich über die Warteschlange an der Kasse."
+      ],
+      [
+        "die Kasse, -n",
+        "checkout / cashier",
+        "f",
+        "An der Kasse bezahle ich mit Karte."
+      ],
+      [
+        "der Einkauf, -e",
+        "shopping / purchase",
+        "m",
+        "Ich mache den Einkauf oft am Samstag."
+      ],
+      [
+        "der Einkaufszettel, -",
+        "shopping list",
+        "m",
+        "Ich schreibe immer einen Einkaufszettel."
+      ],
+      ["die Lieferung, -en", "delivery", "f", "Die Lieferung kommt morgen an."],
+      ["das Paket, -e", "parcel", "n", "Das Paket ist heute angekommen."],
+      ["die Verpackung, -en", "packaging", "f", "Die Verpackung ist kaputt."],
+      ["die Firma, -en", "company", "f", "Ich schreibe der Firma eine E-Mail."],
+      [
+        "der Kunde, -n",
+        "customer (male)",
+        "m",
+        "Der Kunde wartet an der Kasse."
+      ],
+      [
+        "die Kundin, -nen",
+        "customer (female)",
+        "f",
+        "Die Kundin fragt nach einem Sonderangebot."
+      ],
+      [
+        "der Verkäufer, -",
+        "salesperson (male)",
+        "m",
+        "Der Verkäufer berät mich freundlich."
+      ],
+      [
+        "die Verkäuferin, -nen",
+        "salesperson (female)",
+        "f",
+        "Die Verkäuferin empfiehlt mir die Pralinen."
+      ],
+      [
+        "die Gemüsekiste, -n",
+        "vegetable box (subscription box)",
+        "f",
+        "Ich bestelle eine Gemüsekiste für die Woche."
+      ],
+      ["die Region, -en", "region", "f", "Die Produkte kommen aus der Region."]
+    ],
+    "Nomen (Lebensmittel & Einkaufen)": [
+      ["das Obst (kein Pl.)", "fruit", "n", "Das Obst wiege ich selbst."],
+      [
+        "das Gemüse (kein Pl.)",
+        "vegetables",
+        "n",
+        "Gemüse ist im Bioladen oft teurer."
+      ],
+      [
+        "der Salat, -e",
+        "salad / lettuce",
+        "m",
+        "Ich nehme heute einen frischen Salat."
+      ],
+      ["das Brot, -e", "bread", "n", "Das Brot ist noch warm."],
+      ["der Fisch, -e", "fish", "m", "Fisch kaufe ich lieber frisch."],
+      [
+        "das Fleisch (kein Pl.)",
+        "meat",
+        "n",
+        "Fleisch kaufe ich nicht jeden Tag."
+      ],
+      [
+        "der Honig (kein Pl.)",
+        "honey",
+        "m",
+        "Honig ist süß und passt gut zum Tee."
+      ],
+      [
+        "der Quark (kein Pl.)",
+        "quark / curd cheese",
+        "m",
+        "Ich brauche Quark für den Kuchen."
+      ],
+      ["der Kuchen, -", "cake", "m", "Der Kuchen schmeckt sehr gut."],
+      [
+        "die Torte, -n",
+        "cake (layer cake)",
+        "f",
+        "Zum Geburtstag gibt es eine Torte."
+      ],
+      [
+        "die Süßigkeit, -en",
+        "sweet / candy",
+        "f",
+        "Zu viele Süßigkeiten sind ungesund."
+      ],
+      [
+        "die Schachtel Pralinen, -",
+        "box of pralines",
+        "f",
+        "Ich kaufe eine Schachtel Pralinen als Geschenk."
+      ],
+      ["der Pfeffer (kein Pl.)", "pepper", "m", "Bitte noch Pfeffer dazu."],
+      ["die Rose, -n", "rose", "f", "Ich kaufe eine Rose für meine Freundin."],
+      [
+        "das Joghurt/der Joghurt, -s",
+        "yogurt",
+        "n",
+        "Ich esse morgens Joghurt."
+      ],
+      ["die Orange, -n", "orange", "f", "Ich nehme drei Orangen, bitte."],
+      ["die Tomate, -n", "tomato", "f", "Ich hätte gern zwei Tomaten."]
+    ],
+    "Nomen (Kleidung)": [
+      [
+        "der Mantel, -",
+        "coat",
+        "m",
+        "Im Winter brauche ich einen warmen Mantel."
+      ],
+      ["die Hose, -n", "pants", "f", "Die Hose ist mir zu lang."],
+      ["das Hemd, -en", "shirt", "n", "Das Hemd kostet 20 Euro."],
+      ["der Schal, -s", "scarf", "m", "Ich trage im Herbst einen Schal."],
+      [
+        "die Mütze, -n",
+        "hat / beanie",
+        "f",
+        "Im Schnee brauche ich eine Mütze."
+      ],
+      [
+        "der Wollpullover, -",
+        "wool sweater",
+        "m",
+        "Der Wollpullover ist sehr weich."
+      ],
+      ["die Größe, -n", "size", "f", "Welche Größe brauchen Sie?"]
+    ],
+    "Nomen (Elektronik & Büro)": [
+      [
+        "der Rechner, -",
+        "computer",
+        "m",
+        "Der Rechner funktioniert nicht mehr."
+      ],
+      ["der Drucker, -", "printer", "m", "Der Drucker hat kein Papier."],
+      ["der Router, -", "router", "m", "Der Router ist kaputt."],
+      ["die Festplatte, -n", "hard drive", "f", "Die Festplatte ist voll."],
+      ["die Tastatur, -en", "keyboard", "f", "Meine Tastatur ist sehr laut."],
+      [
+        "die Fernbedienung, -en",
+        "remote control",
+        "f",
+        "Wo ist die Fernbedienung?"
+      ],
+      ["der Fotoapparat, -e", "camera", "m", "Der Fotoapparat ist sehr teuer."],
+      [
+        "der Wecker, -",
+        "alarm clock",
+        "m",
+        "Der Wecker klingelt um sieben Uhr."
+      ],
+      ["der Ordner, -", "folder / binder", "m", "Der Ordner liegt im Regal."],
+      ["das Papier (kein Pl.)", "paper", "n", "Wir haben kein Papier mehr."]
+    ],
+    "Nomen (Post, Dokumente & Zahlung)": [
+      ["der Beleg, -e", "receipt", "m", "Haben Sie den Beleg noch?"],
+      [
+        "die Quittung, -en",
+        "receipt",
+        "f",
+        "Ich brauche eine Quittung für die Firma."
+      ],
+      [
+        "die Rechnung, -en",
+        "invoice / bill",
+        "f",
+        "Die Rechnung ist noch nicht bezahlt."
+      ],
+      [
+        "die Briefmarke, -n",
+        "stamp",
+        "f",
+        "Eine Briefmarke kostet heute mehr als früher."
+      ],
+      [
+        "der Briefumschlag, -umschläge",
+        "envelope",
+        "m",
+        "Ich brauche zwei Briefumschläge."
+      ],
+      [
+        "die Fahrkarte, -n",
+        "ticket",
+        "f",
+        "Ich kaufe eine Fahrkarte am Automaten."
+      ],
+      ["die Karte, -n", "card", "f", "Kann ich mit Karte bezahlen?"],
+      [
+        "das Handy, -s",
+        "mobile phone",
+        "n",
+        "Ich bezahle manchmal mit dem Handy."
+      ],
+      [
+        "das Geld (kein Pl.)",
+        "money",
+        "n",
+        "Ich habe heute nicht genug Geld dabei."
+      ]
+    ],
+    "Nomen (Sonstiges)": [
+      ["das Nasenspray, -s", "nasal spray", "n", "Ich brauche ein Nasenspray."],
+      ["die Pille, -n", "pill", "f", "Bitte eine Pille gegen Kopfschmerzen."],
+      [
+        "der Hustensaft, -säfte",
+        "cough syrup",
+        "m",
+        "Der Hustensaft hilft mir."
+      ],
+      ["die Zeitung, -en", "newspaper", "f", "Ich lese morgens die Zeitung."],
+      ["das Feuerzeug, -e", "lighter", "n", "Haben Sie ein Feuerzeug?"],
+      [
+        "das Streichholz, -hölzer",
+        "match",
+        "n",
+        "Ich habe keine Streichhölzer dabei."
+      ],
+      [
+        "der Goldschmuck (kein Pl.)",
+        "gold jewelry",
+        "m",
+        "Goldschmuck ist oft teuer."
+      ],
+      [
+        "das Souvenir, -s",
+        "souvenir",
+        "n",
+        "Ich bringe ein Souvenir aus dem Urlaub mit."
+      ],
+      [
+        "das Problem, -e",
+        "problem",
+        "n",
+        "Wir haben ein Problem mit der Lieferung."
+      ]
+    ],
+    "Verben": [
+      ["einkaufen", "to shop", null, "Ich muss noch einkaufen."],
+      ["bestellen", "to order", null, "Ich bestelle Gemüse online."],
+      ["liefern", "to deliver", null, "Die Firma liefert das Paket morgen."],
+      [
+        "annehmen",
+        "to accept (a delivery)",
+        null,
+        "Können Sie das Paket annehmen?"
+      ],
+      ["bestätigen", "to confirm", null, "Bitte bestätigen Sie den Empfang."],
+      ["bezahlen", "to pay", null, "Ich bezahle lieber mit Karte."],
+      ["wiegen", "to weigh", null, "Ich wiege das Obst selbst."],
+      [
+        "verlangen",
+        "to request / demand",
+        null,
+        "Der Kunde verlangt den Beleg."
+      ],
+      ["beraten", "to advise", null, "Die Verkäuferin berät mich sehr gut."],
+      [
+        "bedienen",
+        "to serve",
+        null,
+        "Der Verkäufer bedient die Kundinnen freundlich."
+      ],
+      ["finden", "to find", null, "Ich finde das Angebot super."],
+      [
+        "ärgern (sich)",
+        "to be annoyed",
+        null,
+        "Ich ärgere mich über die Warteschlange."
+      ],
+      [
+        "sich erinnern",
+        "to remember",
+        null,
+        "Ich kann mich nicht an den Preis erinnern."
+      ],
+      [
+        "sich überlegen",
+        "to consider",
+        null,
+        "Ich überlege mir den Einkauf vorher."
+      ],
+      [
+        "reklamieren",
+        "to complain (about a product)",
+        null,
+        "Ich möchte die Ware reklamieren."
+      ],
+      ["umtauschen", "to exchange", null, "Kann ich die Hose umtauschen?"],
+      [
+        "zurückschicken",
+        "to send back",
+        null,
+        "Ich muss das Paket zurückschicken."
+      ],
+      [
+        "zurückbekommen",
+        "to get back (refund)",
+        null,
+        "Sie bekommen Ihr Geld zurück."
+      ],
+      [
+        "entschuldigen (sich)",
+        "to apologize",
+        null,
+        "Ich entschuldige mich für den Fehler."
+      ],
+      ["unterschreiben", "to sign", null, "Bitte unterschreiben Sie hier."],
+      ["schicken", "to send", null, "Ich schicke Ihnen eine E-Mail."],
+      ["helfen", "to help", null, "Können Sie mir bitte helfen?"],
+      ["warten", "to wait", null, "Ich warte schon seit zehn Minuten."],
+      ["stehen", "to stand (in a line)", null, "Ich stehe an der Kasse an."],
+      ["zahlen", "to pay", null, "Zahlen Sie bar oder mit Karte?"]
+    ],
+    "Adjektive": [
+      ["frisch", "fresh", null, "Das Gemüse ist heute sehr frisch."],
+      [
+        "regional",
+        "regional / local",
+        null,
+        "Ich kaufe gern regionale Produkte."
+      ],
+      ["saisonal", "seasonal", null, "Saisonale Produkte sind oft günstiger."],
+      ["bio", "organic", null, "Bio-Eier kosten meistens mehr."],
+      ["warm", "warm", null, "Vorsicht, das Baguette ist noch warm."],
+      ["kaputt", "broken", null, "Die Verpackung ist kaputt."],
+      ["teuer", "expensive", null, "Im Bioladen ist es manchmal teuer."],
+      ["günstig", "cheap / good value", null, "Heute ist das Angebot günstig."],
+      [
+        "satt",
+        "full (not hungry)",
+        null,
+        "Von der Prise wird man schnell satt."
+      ]
+    ],
+    "Ausdrücke": [
+      [
+        "Wir brauchen (noch) ...",
+        "We still need ...",
+        null,
+        "Wir brauchen noch Papier für den Drucker."
+      ],
+      [
+        "Schlange stehen",
+        "to stand in line",
+        null,
+        "Ich muss an der Kasse Schlange stehen."
+      ],
+      [
+        "an der Reihe sein",
+        "to be next / it’s one’s turn",
+        null,
+        "Wer ist an der Reihe?"
+      ],
+      [
+        "im Angebot sein",
+        "to be on sale",
+        null,
+        "Die Orangen sind heute im Angebot."
+      ],
+      [
+        "mit Karte/Handy bezahlen",
+        "to pay by card/phone",
+        null,
+        "Kann ich mit Handy bezahlen?"
+      ],
+      [
+        "den Beleg / die Quittung verlangen",
+        "to ask for the receipt",
+        null,
+        "Ich verlange den Beleg, bitte."
+      ],
+      ["Vorsicht!", "Careful!", null, "Vorsicht, das ist noch heiß!"],
+      [
+        "Bitte unterschreiben Sie hier.",
+        "Please sign here.",
+        null,
+        "Bitte unterschreiben Sie hier auf dem Formular."
+      ],
+      [
+        "Zahlen Sie bar oder mit Karte?",
+        "Cash or card?",
+        null,
+        "Zahlen Sie bar oder mit Karte?"
+      ],
+      [
+        "Entschuldigen Sie, ...",
+        "Excuse me / Sorry, ...",
+        null,
+        "Entschuldigen Sie, ich komme gleich."
+      ],
+      [
+        "Könnten Sie bitte ...?",
+        "Could you please ...?",
+        null,
+        "Könnten Sie bitte langsamer sprechen?"
+      ],
+      [
+        "Das darf ja wohl nicht wahr sein!",
+        "That can’t be true!",
+        null,
+        "Das darf ja wohl nicht wahr sein! Schon wieder ein Fehler."
+      ],
+      [
+        "Ich habe das wirklich bestellt?",
+        "Did I really order that?",
+        null,
+        "Habe ich das wirklich bestellt? Ich bin nicht sicher."
+      ],
+      [
+        "Ich habe den Kaffee vergessen.",
+        "I forgot the coffee.",
+        null,
+        "Oh je, ich habe den Kaffee vergessen."
+      ],
+      [
+        "Ich muss noch einkaufen.",
+        "I still need to shop.",
+        null,
+        "Ich muss noch einkaufen, sonst habe ich nichts zu Hause."
+      ]
+    ]
+  },
+  "grammar": [
+    {
+      "title": "Reflexive pronouns: Akkusativ vs. Dativ (mich/mir, dich/dir ...)",
+      "rules": "In German, many verbs are reflexive (the action comes back to the subject). If the verb has NO other direct object, the reflexive pronoun is usually Akkusativ (mich/dich/sich/uns/euch/sich). If there IS another Akkusativ object (a 'thing'), the reflexive pronoun often changes to Dativ (mir/dir/sich/uns/euch/sich).\n\nAkkusativ examples:\n- Ich ärgere mich über die Warteschlange.\n- Ich erinnere mich nicht.\n\nDativ examples (because another Akkusativ object is present):\n- Ich überlege mir den Einkauf. (den Einkauf = Akkusativ object)\n- Ich wünsche mir ein Buch. (ein Buch = Akkusativ object)\n\nMini-table:\nAkk: mich, dich, sich, uns, euch, sich\nDat: mir, dir, sich, uns, euch, sich",
+      "exercises": [
+        [
+          "Setzen Sie das richtige Reflexivpronomen ein: Ich ärgere ___ über die lange Warteschlange.",
+          ["mich", "mir", "dich", "dir"],
+          "mich",
+          "Kein anderes Akkusativ-Objekt im Satz.",
+          "Wenn nichts anderes 'den/das' bekommt, nimm oft Akkusativ: mich/dich.",
+          "No other direct object appears, so use accusative: 'mich'."
+        ],
+        [
+          "Wählen Sie richtig: Ich überlege ___ den Einkauf für morgen.",
+          ["mich", "mir", "dich", "dir"],
+          "mir",
+          "Es gibt ein Akkusativ-Objekt: den Einkauf.",
+          "Satz-Check: Gibt es 'den/das'? Dann Reflexiv oft Dativ (mir/dir).",
+          "'Den Einkauf' is an accusative object, so the reflexive pronoun becomes dative: 'mir'."
+        ],
+        [
+          "Welche Variante ist korrekt?",
+          [
+            "Ich wünsche mich ein Buch.",
+            "Ich wünsche mir ein Buch.",
+            "Ich wünsche mir ein Bücher.",
+            "Ich wünsche mich ein Buch mir."
+          ],
+          "Ich wünsche mir ein Buch.",
+          "Wunsch + Sache (Akkusativ) → Reflexiv Dativ.",
+          "Wünschen + Sache = 'mir' (wie 'to wish for myself').",
+          "Because 'ein Buch' is the thing (accusative), the reflexive pronoun is dative: 'mir'."
+        ],
+        [
+          "Ergänzen Sie: Kannst du ___ bitte Zeit nehmen?",
+          ["mich", "mir", "dich", "dir"],
+          "dir",
+          "Du-Form, reflexiv, kein weiteres Akkusativ-Objekt.",
+          "Du-Sätze: mich→dich, mir→dir.",
+          "With 'du', accusative reflexive is 'dich'. Here the common phrase is 'sich Zeit nehmen' → 'dir' is also possible in meaning 'take time for yourself'; standard is 'Nimm dir Zeit'."
+        ],
+        [
+          "Setzen Sie ein: Wir machen ___ eine Liste, damit wir nichts vergessen.",
+          ["uns", "unsere", "uns", "unser"],
+          "uns",
+          "Reflexiv (Akkusativ) ohne weiteres Akkusativ-Objekt.",
+          "Wir → uns (Akk/Dat gleich bei uns/euch/sich).",
+          "Reflexive pronoun for 'wir' is 'uns'; here it's used as a reflexive object."
+        ]
+      ]
+    },
+    {
+      "title": "Relativpronomen im Akkusativ (der/die/das → den/die/das) + Kommas",
+      "rules": "Relative clauses describe a noun. They start with a relative pronoun and are separated by commas.\n\nForms (Akkusativ):\n- der → den (m)\n- die → die (f)\n- das → das (n)\n- Plural die → die\n\nExamples:\n- Das ist der Drucker, den ich bestellt habe.\n- Das ist die Hose, die ich umtauschen möchte.\n- Das ist das Paket, das heute gekommen ist.\n\nComma rule:\n- Before a relative clause, there is ALWAYS a comma.\n- After the relative clause, there is ALSO a comma (unless the sentence ends).",
+      "exercises": [
+        [
+          "Setzen Sie ein: Das ist der Mantel, ___ ich gestern gekauft habe.",
+          ["der", "den", "die", "das"],
+          "den",
+          "Mantel = maskulin, Akkusativ im Relativsatz.",
+          "Merke: der→den im Akkusativ.",
+          "‘Mantel’ is masculine; in the relative clause it is the direct object, so use accusative ‘den’."
+        ],
+        [
+          "Welche Satzzeichen sind richtig?",
+          [
+            "Das ist die Tastatur die nicht funktioniert.",
+            "Das ist die Tastatur, die nicht funktioniert.",
+            "Das ist die Tastatur die, nicht funktioniert.",
+            "Das ist die Tastatur, die nicht funktioniert,"
+          ],
+          "Das ist die Tastatur, die nicht funktioniert.",
+          "Relativsatz steht zwischen Kommas.",
+          "Relativsatz = Komma davor (und danach, wenn es weitergeht).",
+          "A relative clause must be set off with a comma; here the sentence ends after the clause."
+        ],
+        [
+          "Setzen Sie ein: Ich kenne das Geschäft, ___ du empfohlen hast.",
+          ["der", "den", "das", "die"],
+          "das",
+          "Geschäft = Neutrum.",
+          "das bleibt im Akkusativ: das.",
+          "‘Geschäft’ is neuter, so accusative relative pronoun is ‘das’."
+        ],
+        [
+          "Welche Variante ist korrekt?",
+          [
+            "Die Orangen, den ich kaufe, sind im Angebot.",
+            "Die Orangen, die ich kaufe, sind im Angebot.",
+            "Die Orangen die ich kaufe sind im Angebot.",
+            "Die Orangen, das ich kaufe, sind im Angebot."
+          ],
+          "Die Orangen, die ich kaufe, sind im Angebot.",
+          "Plural: die / die.",
+          "Plural bleibt 'die' (Nom/Akk).",
+          "Plural relative pronoun is ‘die’; commas are required around the relative clause."
+        ],
+        [
+          "Fügen Sie Kommas ein: Der Verkäufer der mich beraten hat war sehr freundlich.",
+          [
+            "Der Verkäufer, der mich beraten hat, war sehr freundlich.",
+            "Der Verkäufer der, mich beraten hat war sehr freundlich.",
+            "Der Verkäufer der mich beraten hat, war sehr freundlich.",
+            "Der Verkäufer, der mich beraten hat war sehr freundlich,"
+          ],
+          "Der Verkäufer, der mich beraten hat, war sehr freundlich.",
+          "Relativsatz mitten im Satz → zwei Kommas.",
+          "Relativsatz in der Mitte: Komma links + Komma rechts.",
+          "The relative clause interrupts the main sentence, so it needs commas on both sides."
+        ]
+      ]
+    },
+    {
+      "title": "Reklamieren, reagieren und 'sondern' (nicht A, sondern B)",
+      "rules": "When you complain (reklamieren), you often use polite but clear structures.\n\nUseful patterns:\n- Ich habe (etwas) bestellt, aber ...\n- Ich habe (etwas) bekommen, aber ...\n- Die Lieferung ist (nicht) angekommen.\n- Können Sie mir bitte helfen?\n\n'sondern' is used after a negation to correct information:\n- Ich habe kein gelbes Papier bekommen, sondern blaues.\n- Es ist nicht billig, sondern teuer.\n\nImportant: 'sondern' needs a negative before it (nicht/kein).",
+      "exercises": [
+        [
+          "Ergänzen Sie: Ich habe kein Papier bekommen, ___ nur leere Kartons.",
+          ["aber", "sondern", "weil", "trotzdem"],
+          "sondern",
+          "Vorher steht 'kein' (Negation).",
+          "Negation + Korrektur = sondern.",
+          "Use 'sondern' to correct after a negation: ‘not X, but Y’."
+        ],
+        [
+          "Welche Aussage passt zu 'sondern'?",
+          [
+            "Ich kaufe Brot, sondern ich kaufe Kuchen.",
+            "Ich kaufe kein Brot, sondern Kuchen.",
+            "Ich kaufe Brot, sondern Kuchen.",
+            "Ich kaufe kein Brot, aber sondern Kuchen."
+          ],
+          "Ich kaufe kein Brot, sondern Kuchen.",
+          "Ohne Negation geht 'sondern' nicht.",
+          "Merke: kein/nicht → sondern.",
+          "‘Sondern’ requires a preceding negation (‘kein’/‘nicht’)."
+        ],
+        [
+          "Wählen Sie die beste Reklamationsformulierung: Ihre Ware ist kaputt. Sie möchten höflich schreiben.",
+          [
+            "Das ist schlecht. Machen Sie das neu!",
+            "Ich will mein Geld sofort!",
+            "Leider ist die Ware defekt. Könnten Sie mir bitte weiterhelfen?",
+            "Sie haben alles falsch gemacht!"
+          ],
+          "Leider ist die Ware defekt. Könnten Sie mir bitte weiterhelfen?",
+          "Höflich + konkret + Bitte.",
+          "3K: konkret, korrekt, kooperativ.",
+          "The polite option states the problem and asks for help."
+        ],
+        [
+          "Ergänzen Sie: Die Verpackung ist nicht in Ordnung, ___ das Produkt ist beschädigt.",
+          ["sondern", "aber", "weil", "dass"],
+          "sondern",
+          "Negation 'nicht' → Korrektur/Steigerung.",
+          "Nicht A, sondern B.",
+          "After 'nicht', use 'sondern' to correct/replace the first statement."
+        ],
+        [
+          "Welche Reihenfolge ist in einer Reklamationsmail am sinnvollsten?",
+          [
+            "Beleidigung → Problem → Gruß",
+            "Problem kurz nennen → Bestell-/Rechnungsnummer → Bitte um Lösung",
+            "Preis verhandeln → Smalltalk → Problem",
+            "Nur ein Satz: 'Machen Sie das!'"
+          ],
+          "Problem kurz nennen → Bestell-/Rechnungsnummer → Bitte um Lösung",
+          "Sachlich und nachvollziehbar.",
+          "P-N-B: Problem – Nummer – Bitte.",
+          "A clear complaint includes the issue, reference number, and requested solution."
+        ]
+      ]
+    },
+    {
+      "title": "Höfliche Bitten beim Einkaufen: 'Könnten Sie bitte ...?'",
+      "rules": "For polite requests in shops, use:\n- Könnten Sie bitte + Infinitiv ...?\n- Würden Sie bitte + Infinitiv ...?\n- Entschuldigen Sie, ...\n\nExamples:\n- Könnten Sie mir bitte helfen?\n- Könnten Sie das wiederholen?\n- Würden Sie mir bitte 250 Gramm Gouda geben?\n\nPolite replies:\n- Ja, gern. / Natürlich. / Einen Moment, bitte.\n- Tut mir leid, das geht nicht.",
+      "exercises": [
+        [
+          "Welche Bitte ist am höflichsten?",
+          [
+            "Gib mir das Brot!",
+            "Ich will Brot.",
+            "Könnten Sie mir bitte das Brot geben?",
+            "Brot, schnell!"
+          ],
+          "Könnten Sie mir bitte das Brot geben?",
+          "Modalverb + bitte = höflich.",
+          "Könnten Sie...? klingt wie 'Could you...?'",
+          "‘Könnten Sie bitte…?’ is the standard polite request form."
+        ],
+        [
+          "Setzen Sie ein: ___ Sie mir bitte 250 Gramm Gouda geben?",
+          ["Kann", "Könnten", "Will", "Musst"],
+          "Könnten",
+          "Sie-Form + Konjunktiv II ist höflicher.",
+          "Könnte(n) = höflicher als kann/können.",
+          "Konjunktiv II (‘Könnten’) makes the request more polite."
+        ],
+        [
+          "Welche Antwort passt? — 'Entschuldigen Sie, ich komme gleich.'",
+          [
+            "Kein Problem, ich warte.",
+            "Du musst gehen.",
+            "Ich will nicht.",
+            "Warum?"
+          ],
+          "Kein Problem, ich warte.",
+          "Höfliche Reaktion.",
+          "Freundlich bleiben: warten/kein Problem.",
+          "A polite response is to reassure and say you’ll wait."
+        ],
+        [
+          "Bilden Sie eine höfliche Bitte: (langsamer sprechen)",
+          [
+            "Sprechen Sie langsamer!",
+            "Könnten Sie bitte langsamer sprechen?",
+            "Du sprichst zu schnell.",
+            "Langsam!"
+          ],
+          "Könnten Sie bitte langsamer sprechen?",
+          "Könnten Sie bitte + Infinitiv.",
+          "Formel: Könnten Sie bitte …?",
+          "This uses the polite request structure with infinitive."
+        ],
+        [
+          "Welche Variante ist korrekt und höflich?",
+          [
+            "Wiederholen Sie das, bitte?",
+            "Wiederholen du das!",
+            "Wiederholen Sie das bitte, jetzt!",
+            "Wiederholen!"
+          ],
+          "Wiederholen Sie das, bitte?",
+          "Sie-Form + bitte; Komma optional, Fragezeichen passt.",
+          "Höflich = Sie + bitte.",
+          "Using ‘Sie’ plus ‘bitte’ makes it polite; phrased as a question it’s softer."
+        ]
+      ]
+    },
+    {
+      "title": "Wortbildung: Komposita (Nomen + Nomen)",
+      "rules": "German often combines nouns into one new noun (Komposita). The LAST noun determines the gender and plural.\n\nExamples:\n- das Büro + der Stuhl → der Bürostuhl\n- das Büro + die Tür → die Bürotür\n- das Büro + die Büroklammer → die Büroklammer (already a compound-like example)\n\nTip: Write compounds as one word; sometimes linking letters appear (e.g., -s-, -n-), depending on the word.",
+      "exercises": [
+        [
+          "Bilden Sie ein Kompositum: das Büro + der Stuhl",
+          ["BüroStuhl", "Bürostuhl", "Stuhlbüro", "Büro der Stuhl"],
+          "Bürostuhl",
+          "Komposita werden zusammengeschrieben.",
+          "1 Wort statt 2.",
+          "German compounds are written as one word: ‘Bürostuhl’."
+        ],
+        [
+          "Welche Aussage stimmt?",
+          [
+            "Das erste Wort bestimmt den Artikel.",
+            "Das letzte Wort bestimmt den Artikel.",
+            "Beide Wörter bestimmen den Artikel.",
+            "Kein Wort bestimmt den Artikel."
+          ],
+          "Das letzte Wort bestimmt den Artikel.",
+          "Genus kommt vom Grundwort (letztes Nomen).",
+          "Letztes Wort = Boss.",
+          "In compounds, the final noun determines gender/article."
+        ],
+        [
+          "Bilden Sie ein Kompositum: die Kartoffel + der Salat",
+          [
+            "Kartoffelsalat",
+            "Kartoffel Salat",
+            "Salatkartoffel",
+            "Kartoffels Salat"
+          ],
+          "Kartoffelsalat",
+          "Sehr häufig mit -s- oder ohne, je nach Wort; hier ohne Leerzeichen.",
+          "Bekanntes Wort: Kartoffelsalat.",
+          "The standard compound is ‘Kartoffelsalat’."
+        ],
+        [
+          "Bilden Sie ein Kompositum: das Kochbuch + das Rezept (gemeint: Rezept aus einem Kochbuch)",
+          [
+            "Kochbuchrezept",
+            "Rezeptkochbuch",
+            "Kochbuch Rezept",
+            "Kochbuchesrezept"
+          ],
+          "Kochbuchrezept",
+          "Zusammenschreiben; letztes Wort = Rezept.",
+          "Letztes Wort gewinnt.",
+          "‘Kochbuchrezept’ is a valid compound meaning a recipe from a cookbook."
+        ],
+        [
+          "Wählen Sie das korrekte Kompositum: die Büro + die Tasche",
+          ["Bürotasche", "Büro Tasche", "Tascheinbüro", "BürosTasche"],
+          "Bürotasche",
+          "Zusammenschreiben, kein Leerzeichen.",
+          "Kompositum = zusammen.",
+          "The correct compound is written as one word: ‘Bürotasche’."
+        ]
+      ]
+    }
+  ],
+  "imageThemes": [
+    "Supermarkt-Kasse mit Warteschlange und Kartenzahlung",
+    "Wochenmarkt mit Obst- und Gemüsestand (wiegen, regionale Produkte)",
+    "Online-Bestellung: Paket/Verpackung/Lieferung und Reklamation per E-Mail"
+  ]
+}

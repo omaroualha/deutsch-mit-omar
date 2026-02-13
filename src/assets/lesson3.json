@@ -1,0 +1,399 @@
+{
+  "title": "Wir sind für Sie da.",
+  "subtitle": "Kapitel 3",
+
+  "vocabulary": {
+    "Nomen (Bank & Finanzen)": [
+      [
+        "das Girokonto, -konten",
+        "current account",
+        "n",
+        "Ich eröffne ein neues Girokonto bei meiner Bank."
+      ],
+      ["die Bankkarte, -n", "bank card", "f", "Meine Bankkarte ist weg."],
+      [
+        "die Kreditkarte, -n",
+        "credit card",
+        "f",
+        "Ich bezahle mit der Kreditkarte."
+      ],
+      [
+        "die EC-Karte, -n",
+        "debit card",
+        "f",
+        "Mit der EC-Karte kann man Geld abheben."
+      ],
+      ["die IBAN, -", "IBAN", "f", "Die IBAN steht auf meiner Bankkarte."],
+      [
+        "der Automat, -en",
+        "machine / ATM",
+        "m",
+        "Am Automaten kann ich Geld abheben."
+      ],
+      [
+        "die Überweisung, -en",
+        "bank transfer",
+        "f",
+        "Ich mache eine Überweisung."
+      ],
+      [
+        "der Dauerauftrag, -träge",
+        "standing order",
+        "m",
+        "Die Miete wird per Dauerauftrag bezahlt."
+      ],
+      [
+        "der Kontoauszug, -auszüge",
+        "bank statement",
+        "m",
+        "Ich lese meinen Kontoauszug."
+      ],
+      [
+        "der Verlust, -e",
+        "loss",
+        "m",
+        "Den Verlust der Karte melde ich sofort."
+      ],
+      [
+        "die Sperrung, -en",
+        "blocking",
+        "f",
+        "Die Sperrung der Karte ist wichtig."
+      ],
+      [
+        "der Sperrnotruf, -e",
+        "emergency blocking hotline",
+        "m",
+        "Ich rufe den Sperrnotruf an."
+      ],
+      [
+        "die Rechnung, -en",
+        "bill / invoice",
+        "f",
+        "Die Rechnung ist noch offen."
+      ],
+      ["der Betrag, -beträge", "amount", "m", "Der Betrag ist falsch."],
+      ["das Bargeld (kein Pl.)", "cash", "n", "Ich zahle lieber mit Bargeld."]
+    ],
+
+    "Nomen (Versicherung)": [
+      [
+        "die Versicherung, -en",
+        "insurance",
+        "f",
+        "Ich brauche eine Versicherung."
+      ],
+      [
+        "die Haftpflichtversicherung, -en",
+        "liability insurance",
+        "f",
+        "Eine Haftpflichtversicherung ist sehr wichtig."
+      ],
+      [
+        "die Reisekrankenversicherung, -en",
+        "travel health insurance",
+        "f",
+        "Für den Urlaub brauche ich eine Reisekrankenversicherung."
+      ],
+      [
+        "die Auslandskrankenversicherung, -en",
+        "foreign health insurance",
+        "f",
+        "Die Auslandskrankenversicherung zahlt im Notfall."
+      ],
+      ["der Schaden, Schäden", "damage", "m", "Ich melde den Schaden."],
+      [
+        "die Schadensmeldung, -en",
+        "damage report",
+        "f",
+        "Ich schreibe eine Schadensmeldung."
+      ],
+      [
+        "die Schadenssumme, -n",
+        "amount of damage",
+        "f",
+        "Die Schadenssumme ist hoch."
+      ],
+      ["der Tarif, -e", "tariff / plan", "m", "Dieser Tarif ist günstig."],
+      ["die Kosten (Pl.)", "costs", "f", "Die Kosten sind sehr hoch."],
+      ["der Vertrag, -verträge", "contract", "m", "Ich kündige den Vertrag."]
+    ],
+
+    "Nomen (Verbraucher & Beratung)": [
+      [
+        "die Verbraucherzentrale, -n",
+        "consumer advice center",
+        "f",
+        "Die Verbraucherzentrale hilft bei Problemen."
+      ],
+      [
+        "die Beratung, -en",
+        "consultation / advice",
+        "f",
+        "Die Beratung war hilfreich."
+      ],
+      [
+        "das Problem, -e",
+        "problem",
+        "n",
+        "Ich habe ein Problem mit der Rechnung."
+      ],
+      ["die Beschwerde, -n", "complaint", "f", "Ich schreibe eine Beschwerde."]
+    ],
+
+    "Verben (Bank & Alltag)": [
+      ["eröffnen", "to open (account)", null, "Ich möchte ein Konto eröffnen."],
+      ["abheben", "to withdraw", null, "Ich hebe Geld ab."],
+      ["überweisen", "to transfer", null, "Ich überweise die Miete."],
+      ["sperren", "to block", null, "Die Bank sperrt die Karte."],
+      ["kündigen", "to cancel", null, "Ich kündige den Vertrag."],
+      ["verlieren", "to lose", null, "Ich habe meine Karte verloren."],
+      ["melden", "to report", null, "Ich melde den Schaden."],
+      ["bezahlen", "to pay", null, "Ich bezahle die Rechnung."],
+      ["helfen", "to help", null, "Die Versicherung hilft mir."]
+    ],
+
+    "Adjektive": [
+      ["offen", "unpaid / open", null, "Die Rechnung ist noch offen."],
+      ["kaputt", "broken", null, "Mein Handy ist kaputt."],
+      ["günstig", "cheap / good value", null, "Der Tarif ist günstig."],
+      ["teuer", "expensive", null, "Die Versicherung ist teuer."],
+      [
+        "wichtig",
+        "important",
+        null,
+        "Eine Haftpflichtversicherung ist wichtig."
+      ]
+    ],
+
+    "Ausdrücke": [
+      ["Geld abheben", "withdraw money", null, "Ich möchte Geld abheben."],
+      [
+        "eine Überweisung machen",
+        "make a transfer",
+        null,
+        "Ich mache eine Überweisung."
+      ],
+      [
+        "eine Karte sperren",
+        "block a card",
+        null,
+        "Ich lasse meine Karte sperren."
+      ],
+      [
+        "einen Schaden melden",
+        "report damage",
+        null,
+        "Ich möchte einen Schaden melden."
+      ],
+      [
+        "einen Vertrag kündigen",
+        "cancel a contract",
+        null,
+        "Ich kündige den Vertrag."
+      ]
+    ]
+  },
+
+  "grammar": [
+    {
+      "title": "Relativpronomen im Akkusativ",
+      "rules": "Relative clauses describe a noun and require commas. In Akkusativ:\n- der → den\n- die → die\n- das → das\nExample: Das ist der Vertrag, den ich kündige.",
+      "exercises": [
+        [
+          "Setzen Sie ein: Das ist der Betrag, ___ ich überweise.",
+          ["der", "den", "die", "das"],
+          "den",
+          "Betrag = maskulin",
+          "der→den",
+          "Masculine accusative → den"
+        ],
+        [
+          "Richtig? Die Rechnung die ich bekomme ist falsch.",
+          ["Ja", "Nein"],
+          "Nein",
+          "Komma fehlt",
+          "Relativsatz braucht Komma",
+          "Comma required"
+        ],
+        [
+          "Setzen Sie ein: Das ist die Karte, ___ ich verloren habe.",
+          ["die", "den", "das"],
+          "die",
+          "Karte = feminin",
+          "die bleibt die",
+          "Feminine accusative"
+        ],
+        [
+          "Welche Form? Das ist das Konto, ___ ich eröffne.",
+          ["das", "den", "die"],
+          "das",
+          "Konto = neutrum",
+          "das bleibt das",
+          "Neuter accusative"
+        ],
+        [
+          "Kommas? Der Kunde der wartet ist nervös.",
+          [
+            "Der Kunde, der wartet, ist nervös.",
+            "Der Kunde der wartet ist nervös."
+          ],
+          "Der Kunde, der wartet, ist nervös.",
+          "Relativsatz mitten im Satz",
+          "2 Kommas",
+          "Clause separation"
+        ]
+      ]
+    },
+
+    {
+      "title": "Reflexive Verben (Akkusativ / Dativ)",
+      "rules": "If no other Akkusativ object → reflexive Akkusativ (mich). If Akkusativ object exists → reflexive Dativ (mir).\nExample: Ich ärgere mich. / Ich kaufe mir ein Handy.",
+      "exercises": [
+        [
+          "Ich ärgere ___ über die Kosten.",
+          ["mich", "mir"],
+          "mich",
+          "kein Objekt",
+          "ohne Objekt = Akk",
+          "Accusative reflexive"
+        ],
+        [
+          "Ich kaufe ___ einen Rechner.",
+          ["mich", "mir"],
+          "mir",
+          "Rechner = Objekt",
+          "mit Objekt = Dat",
+          "Dative reflexive"
+        ],
+        [
+          "Wir überlegen ___ den Tarif.",
+          ["uns", "unsere"],
+          "uns",
+          "reflexiv",
+          "wir→uns",
+          "Correct reflexive"
+        ],
+        [
+          "Er erinnert ___ an den Termin.",
+          ["sich", "ihn"],
+          "sich",
+          "reflexives Verb",
+          "er→sich",
+          "Reflexive verb"
+        ],
+        [
+          "Du wünschst ___ eine neue Karte.",
+          ["dich", "dir"],
+          "dir",
+          "Karte = Objekt",
+          "mit Objekt = Dat",
+          "Dative reflexive"
+        ]
+      ]
+    },
+
+    {
+      "title": "Obwohl – Nebensatz (Kontrast)",
+      "rules": "'Obwohl' introduces a subordinate clause expressing contrast. Verb goes to the end.\nExample: Obwohl ich bezahlt habe, ist die Rechnung offen.",
+      "exercises": [
+        [
+          "Obwohl ich müde bin, ___ ich zur Bank.",
+          ["gehe", "geht"],
+          "gehe",
+          "Hauptsatz normal",
+          "Verb Position 2",
+          "Main clause rule"
+        ],
+        [
+          "___ ich wenig Geld habe, kaufe ich ein Handy.",
+          ["Obwohl", "Weil"],
+          "Obwohl",
+          "Kontrast",
+          "Problem vs Handlung",
+          "Contrast meaning"
+        ],
+        [
+          "Richtig? Obwohl ich habe bezahlt, ist die Rechnung offen.",
+          ["Ja", "Nein"],
+          "Nein",
+          "Verb am Ende",
+          "obwohl + Verb ans Ende",
+          "Word order"
+        ],
+        [
+          "Obwohl er krank ist, ___ er zur Arbeit.",
+          ["geht", "gegangen"],
+          "geht",
+          "Präsens",
+          "Zeitform bleibt",
+          "Correct tense"
+        ],
+        [
+          "Welche Struktur ist korrekt?",
+          [
+            "Obwohl ich müde bin, ich lerne.",
+            "Obwohl ich müde bin, lerne ich."
+          ],
+          "Obwohl ich müde bin, lerne ich.",
+          "Verb im Hauptsatz",
+          "Nebensatz zuerst → Verb dann",
+          "Inversion"
+        ]
+      ]
+    },
+
+    {
+      "title": "sondern (nicht A, sondern B)",
+      "rules": "Used after negation to correct information.\nExample: Ich habe kein Bargeld, sondern eine Karte.",
+      "exercises": [
+        [
+          "Ich habe kein Konto, ___ eine Kreditkarte.",
+          ["aber", "sondern"],
+          "sondern",
+          "Negation",
+          "kein/nicht → sondern",
+          "Correction structure"
+        ],
+        [
+          "Richtig? Ich habe Geld, sondern keine Karte.",
+          ["Ja", "Nein"],
+          "Nein",
+          "keine Negation",
+          "sondern braucht Negation",
+          "Needs negation"
+        ],
+        [
+          "Ich kaufe nicht Brot, ___ Kuchen.",
+          ["sondern", "weil"],
+          "sondern",
+          "Kontrast",
+          "nicht A sondern B",
+          "Correct connector"
+        ],
+        [
+          "Welche ist korrekt?",
+          ["kein Geld, sondern Karte", "kein Geld, aber Karte"],
+          "kein Geld, sondern Karte",
+          "Regelstruktur",
+          "Negation→sondern",
+          "Standard pattern"
+        ],
+        [
+          "Er hat nicht angerufen, ___ geschrieben.",
+          ["sondern", "und"],
+          "sondern",
+          "Korrektur",
+          "nicht→sondern",
+          "Correction"
+        ]
+      ]
+    }
+  ],
+
+  "imageThemes": [
+    "Bankautomat / Geld abheben / Karte eingeben",
+    "Verlorene Bankkarte & Sperrnotruf",
+    "Versicherungsschaden (kaputt Laptop / Schadensmeldung)"
+  ]
+}

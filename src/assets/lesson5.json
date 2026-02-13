@@ -1,0 +1,954 @@
+{
+  "title": "Ah, so ist das!",
+  "subtitle": "Kapitel 5",
+  "vocabulary": {
+    "Nomen (Überraschungen & Alltag)": [
+      [
+        "die Überraschung, -en",
+        "surprise",
+        "f",
+        "Das hat mich wirklich überrascht!"
+      ],
+      [
+        "die Autobahn, -en",
+        "motorway / highway",
+        "f",
+        "Auf der Autobahn fahren die Autos oft sehr schnell."
+      ],
+      [
+        "das Auto, -s",
+        "car",
+        "n",
+        "Das Auto auf der Autobahn war sehr schnell."
+      ],
+      [
+        "der Sonntag, -e",
+        "Sunday",
+        "m",
+        "Was machen die Leute in Deutschland am Sonntag?"
+      ],
+      [
+        "der Hund, -e",
+        "dog",
+        "m",
+        "Ist es normal, dass Leute mit Hunden ins Restaurant gehen?"
+      ],
+      [
+        "das Restaurant, -s",
+        "restaurant",
+        "n",
+        "Wir waren im Restaurant und haben dort gegessen."
+      ],
+      [
+        "die Dose, -n",
+        "can (tin)",
+        "f",
+        "Was macht der Mann mit den vielen Dosen am Fahrrad?"
+      ],
+      [
+        "das Fahrrad, -räder",
+        "bicycle",
+        "n",
+        "Mich hat gewundert, dass die Deutschen so viel Fahrrad fahren."
+      ],
+      ["das E-Bike, -s", "e-bike", "n", "Überall kann man E-Bikes sehen."],
+      [
+        "das Lastenfahrrad, -räder",
+        "cargo bike",
+        "n",
+        "Eltern bringen Kinder oft mit dem Lastenfahrrad in die Kita."
+      ],
+      [
+        "die Kita, -s",
+        "daycare",
+        "f",
+        "Im Winter bringen viele Eltern ihre Kinder in die Kita."
+      ],
+      [
+        "die Kreditkarte, -n",
+        "credit card",
+        "f",
+        "Keine Kreditkarten? Ich habe kein Bargeld dabei!"
+      ],
+      ["das Bargeld, -", "cash", "n", "Ich habe heute kein Bargeld dabei."],
+      ["die Eile, -", "hurry", "f", "Wozu diese Eile?"],
+      ["der Termin, -e", "appointment", "m", "Haben alle so wichtige Termine?"],
+      [
+        "der Ausflug, -üge",
+        "trip / excursion",
+        "m",
+        "Am Wochenende machen wir oft einen Ausflug."
+      ],
+      [
+        "der Urlaub, -e",
+        "vacation",
+        "m",
+        "Im Sommer machen viele Leute Urlaub."
+      ],
+      [
+        "das Wetter, -",
+        "weather",
+        "n",
+        "Ich fahre nur Fahrrad, wenn das Wetter schön ist."
+      ],
+      [
+        "der Gast, Gäste",
+        "guest",
+        "m",
+        "Sie sind unsere Gäste – Sie müssen nicht bezahlen."
+      ],
+      [
+        "der Besitzer, -",
+        "owner",
+        "m",
+        "Der Besitzer hat gesagt: „Sie müssen nicht bezahlen.“"
+      ],
+      [
+        "die Stadt, Städte",
+        "city",
+        "f",
+        "Nicht nur junge Leute, sondern auch alte fahren in der Stadt Rad."
+      ],
+      ["das Jahr, -e", "year", "n", "Ich lebe seit einem Jahr in Deutschland."],
+      [
+        "der Winter, -",
+        "winter",
+        "m",
+        "Im Winter sehe ich oft Eltern mit Lastenfahrrädern."
+      ]
+    ],
+    "Nomen (Sprachen & Lernen)": [
+      [
+        "die Sprache, -n",
+        "language",
+        "f",
+        "In Afghanistan gibt es viele andere Sprachen und Dialekte."
+      ],
+      [
+        "die Muttersprache, -n",
+        "mother tongue",
+        "f",
+        "Meine Muttersprache ist Spanisch."
+      ],
+      [
+        "die Schule, -n",
+        "school",
+        "f",
+        "In der Schule habe ich sechs Jahre Englisch gelernt."
+      ],
+      [
+        "das Studium, -ien",
+        "studies (university)",
+        "n",
+        "Nach der Schule habe ich in Paris studiert."
+      ],
+      [
+        "die Universität, -en",
+        "university",
+        "f",
+        "An der Universität waren viele Vorlesungen auf Englisch."
+      ],
+      [
+        "die Vorlesung, -en",
+        "lecture",
+        "f",
+        "Als ich studiert habe, waren viele Vorlesungen auf Englisch."
+      ],
+      [
+        "der Deutschkurs, -e",
+        "German course",
+        "m",
+        "John geht jeden Tag in den Deutschkurs."
+      ],
+      [
+        "der Integrationskurs, -e",
+        "integration course",
+        "m",
+        "Hier habe ich einen Integrationskurs besucht."
+      ],
+      [
+        "die B1-Prüfung, -en",
+        "B1 exam",
+        "f",
+        "Ich habe die B1-Prüfung bestanden."
+      ],
+      [
+        "der Deutschunterricht, -e",
+        "German lessons",
+        "m",
+        "In der Schule hatte ich einige Jahre Deutschunterricht."
+      ],
+      [
+        "die Aussprache, -n",
+        "pronunciation",
+        "f",
+        "Regina sagt, dass meine Aussprache sehr gut ist."
+      ],
+      [
+        "der Dialekt, -e",
+        "dialect",
+        "m",
+        "Isabel versteht den Dialekt von ihren Schwiegereltern."
+      ],
+      ["der Witz, -e", "joke", "m", "Regina hat viele deutsche Witze erzählt."],
+      [
+        "die Nachricht, -en",
+        "message / news",
+        "f",
+        "Ich hoffe, bei dir gibt es gute Nachrichten."
+      ],
+      ["der Spaß, -", "fun", "m", "Wir haben beim Üben ganz viel Spaß!"],
+      [
+        "die Chance, -n",
+        "chance",
+        "f",
+        "Ich habe nur selten die Chance, Deutsch zu sprechen."
+      ],
+      [
+        "die Nachbarin, -nen",
+        "female neighbor",
+        "f",
+        "Seitdem ich meine Nachbarin kenne, spreche ich besser Deutsch."
+      ],
+      [
+        "die Freundin, -nen",
+        "female friend / girlfriend",
+        "f",
+        "Meine polnische Freundin sagt, dass mein Polnisch besser ist."
+      ],
+      [
+        "der Deutsche, -n",
+        "German man / German (male)",
+        "m",
+        "Der Deutsche spricht Deutsch."
+      ],
+      [
+        "die Deutsche, -n",
+        "German woman / German (female)",
+        "f",
+        "Die Deutsche spricht Deutsch."
+      ],
+      [
+        "der Türke, -n",
+        "Turkish man / Turk",
+        "m",
+        "Der Türke spricht Türkisch."
+      ],
+      [
+        "die Brasilianerin, -nen",
+        "Brazilian woman",
+        "f",
+        "Die Brasilianerin spricht Portugiesisch."
+      ],
+      [
+        "der Franzose, -n",
+        "French man",
+        "m",
+        "Der Franzose spricht Französisch."
+      ],
+      [
+        "die Syrerin, -nen",
+        "Syrian woman",
+        "f",
+        "Die Syrerin spricht Arabisch."
+      ],
+      [
+        "die Schwedin, -nen",
+        "Swedish woman",
+        "f",
+        "Die Schwedin spricht Schwedisch."
+      ],
+      ["Frankreich, -", "France", "n", "Frankreich ist in Europa."],
+      ["Portugal, -", "Portugal", "n", "Portugal ist in Europa."],
+      ["Italien, -", "Italy", "n", "Italien ist in Europa."],
+      ["Spanien, -", "Spain", "n", "Spanien ist in Europa."],
+      ["Japan, -", "Japan", "n", "Japan liegt in Asien."],
+      [
+        "das Französisch, -",
+        "French (language)",
+        "n",
+        "Ich lerne Französisch."
+      ],
+      [
+        "das Portugiesisch, -",
+        "Portuguese (language)",
+        "n",
+        "Sie spricht Portugiesisch."
+      ],
+      [
+        "das Italienisch, -",
+        "Italian (language)",
+        "n",
+        "Er spricht Italienisch."
+      ],
+      [
+        "das Spanisch, -",
+        "Spanish (language)",
+        "n",
+        "Meine Muttersprache ist Spanisch."
+      ],
+      ["das Japanisch, -", "Japanese (language)", "n", "Sie lernt Japanisch."],
+      [
+        "das Arabisch, -",
+        "Arabic (language)",
+        "n",
+        "In Syrien sprechen viele Arabisch."
+      ],
+      [
+        "das Deutsch, -",
+        "German (language)",
+        "n",
+        "Ich spreche Deutsch und möchte es verbessern."
+      ]
+    ],
+    "Nomen (Arbeit & Konflikte)": [
+      [
+        "die Firma, -en",
+        "company",
+        "f",
+        "Bei meiner alten Firma war das anders."
+      ],
+      [
+        "der Chef, -s",
+        "boss",
+        "m",
+        "Felix hat meine Arbeit vor unserem Chef kritisiert."
+      ],
+      [
+        "die Chefin, -nen",
+        "female boss",
+        "f",
+        "Die Chefin will immer persönlich unterschreiben."
+      ],
+      [
+        "der Kollege, -n",
+        "colleague (male)",
+        "m",
+        "Über die Kritik von meinem Kollegen Felix."
+      ],
+      [
+        "die Kollegin, -nen",
+        "colleague (female)",
+        "f",
+        "Juliane und Lenka sind Kolleginnen."
+      ],
+      [
+        "die Kritik, -en",
+        "criticism",
+        "f",
+        "Ich habe mich über die Kritik geärgert."
+      ],
+      [
+        "die Arbeit, -en",
+        "work / job",
+        "f",
+        "Er hat meine Arbeit direkt kritisiert."
+      ],
+      [
+        "der Vorschlag, -äge",
+        "suggestion",
+        "m",
+        "Mein Vorschlag hat nicht funktioniert."
+      ],
+      [
+        "der Brief, -e",
+        "letter",
+        "m",
+        "Ich habe einen Brief an einen Kunden geschickt."
+      ],
+      [
+        "der Kunde, -n",
+        "customer",
+        "m",
+        "Ich habe einen Brief an einen Kunden geschickt."
+      ],
+      [
+        "das Problem, -e",
+        "problem",
+        "n",
+        "Darüber sprechen wir später – das ist ein Problem."
+      ],
+      ["der Fehler, -", "mistake", "m", "Jeder macht mal einen Fehler."],
+      ["die Sorge, -n", "worry", "f", "Mach dir keine Sorgen."],
+      [
+        "die Angst, Ängste",
+        "fear",
+        "f",
+        "Keine Angst, das wird schon klappen."
+      ],
+      [
+        "die Lösung, -en",
+        "solution",
+        "f",
+        "Machen Sie Vorschläge für eine Lösung."
+      ],
+      [
+        "das Computerprogramm, -e",
+        "computer program",
+        "n",
+        "Sie arbeiten mit einem Computerprogramm, das Sie noch nicht gut kennen."
+      ],
+      ["die Prüfung, -en", "exam", "f", "Sie sind bei Prüfungen immer nervös."],
+      ["die Hand, Hände", "hand", "f", "Bei Prüfungen schwitzen ihre Hände."]
+    ],
+    "Nomen (Smalltalk & Tabus)": [
+      [
+        "der Smalltalk, -",
+        "small talk",
+        "m",
+        "Religion ist kein gutes Thema für Smalltalk."
+      ],
+      ["das Thema, Themen", "topic", "n", "Ups … falsches Thema!"],
+      [
+        "das Geld, -",
+        "money",
+        "n",
+        "Mit Leuten, die ich nicht gut kenne, spreche ich nicht über Geld."
+      ],
+      [
+        "die Politik, -",
+        "politics",
+        "f",
+        "Politik vermeidet man besser beim Smalltalk."
+      ],
+      [
+        "die Religion, -en",
+        "religion",
+        "f",
+        "Über Religion redet man manchmal nur mit guten Freunden."
+      ],
+      [
+        "die Krankheit, -en",
+        "illness",
+        "f",
+        "Über Krankheiten spricht man nicht gern beim Smalltalk."
+      ],
+      [
+        "das Gehalt, -er",
+        "salary",
+        "n",
+        "Über Gehalt spricht man in Deutschland meistens privat."
+      ],
+      [
+        "der Kinderwunsch, -üsche",
+        "wish to have children",
+        "m",
+        "Über den Kinderwunsch spricht man höchstens mit Familie oder engen Freunden."
+      ],
+      ["das Buffet, -s", "buffet", "n", "Sie begegnen sich am Buffet."],
+      [
+        "die Party, -s",
+        "party",
+        "f",
+        "Auf der Party eines Arbeitskollegen hat er gefragt: „Was verdienen Sie?“"
+      ],
+      [
+        "der Arbeitskollege, -n",
+        "coworker",
+        "m",
+        "Auf der Party eines Arbeitskollegen …"
+      ],
+      [
+        "die Familie, -n",
+        "family",
+        "f",
+        "Über Geld spricht man praktisch nur in der Familie."
+      ],
+      [
+        "der Freund, -e",
+        "friend (male)",
+        "m",
+        "Über manche Themen spricht man nur mit sehr engen Freunden."
+      ],
+      [
+        "die Freundin, -nen",
+        "friend (female)",
+        "f",
+        "Mit Freunden kann man auch über Politik sprechen."
+      ],
+      [
+        "der Job, -s",
+        "job",
+        "m",
+        "In seinem Land ist es üblich, zu sagen, was man in welchem Job verdient."
+      ],
+      [
+        "die Frage, -n",
+        "question",
+        "f",
+        "Die Frage nach dem Gehalt finden viele zu privat."
+      ],
+      [
+        "die Kultur, -en",
+        "culture",
+        "f",
+        "Mit dem Thema Essen kann man in vielen Kulturen nichts falsch machen."
+      ]
+    ],
+    "Verben": [
+      ["überraschen", "to surprise", null, "Das hat mich überrascht."],
+      [
+        "sich wundern",
+        "to be surprised / to wonder",
+        null,
+        "Mich hat gewundert, dass die Deutschen so viel Fahrrad fahren."
+      ],
+      ["leben", "to live", null, "Ich lebe seit einem Jahr in Deutschland."],
+      ["bezahlen", "to pay", null, "Im Restaurant haben sie immer bezahlt."],
+      [
+        "einladen",
+        "to invite",
+        null,
+        "Gestern habe ich meine Nachbarin zum Kaffee eingeladen."
+      ],
+      [
+        "sich unterhalten",
+        "to talk / chat",
+        null,
+        "Wir haben uns zwei Stunden auf Deutsch unterhalten."
+      ],
+      ["erzählen", "to tell", null, "Regina hat viele deutsche Witze erzählt."],
+      [
+        "übersetzen",
+        "to translate",
+        null,
+        "Ich habe die Witze für sie übersetzt."
+      ],
+      ["lernen", "to learn", null, "Ich lerne gerade Deutsch."],
+      [
+        "üben",
+        "to practice",
+        null,
+        "Wir treffen uns jede Woche und üben zusammen."
+      ],
+      [
+        "korrigieren",
+        "to correct",
+        null,
+        "Seitdem sie meine Aussprache korrigiert, spreche ich besser."
+      ],
+      ["verbessern", "to improve", null, "Ich möchte mein Deutsch verbessern."],
+      [
+        "bestehen",
+        "to pass (an exam)",
+        null,
+        "Ich habe die B1-Prüfung bestanden."
+      ],
+      [
+        "kritisiert",
+        "to criticize",
+        null,
+        "Felix hat meine Arbeit vor dem Chef kritisiert."
+      ],
+      [
+        "funktionieren",
+        "to work / function",
+        null,
+        "Mein Vorschlag hat nicht funktioniert."
+      ],
+      [
+        "sich ärgern",
+        "to be annoyed",
+        null,
+        "Ich habe mich über die Kritik geärgert."
+      ],
+      ["sich gewöhnen", "to get used to", null, "Daran muss du dich gewöhnen."],
+      [
+        "unterschreiben",
+        "to sign",
+        null,
+        "Die Chefin will immer persönlich unterschreiben."
+      ],
+      ["beruhigen", "to calm (someone)", null, "Beruhigen Sie sich."],
+      [
+        "schaffen",
+        "to manage / accomplish",
+        null,
+        "Ich schaffe die Arbeit nicht rechtzeitig."
+      ],
+      [
+        "entlassen",
+        "to fire / dismiss",
+        null,
+        "Ich habe Angst, dass man mich entlässt."
+      ],
+      ["sprechen", "to speak", null, "Ich spreche Deutsch."],
+      ["denken", "to think", null, "Woran denkst du?"],
+      ["träumen", "to dream", null, "Wovon träumen Sie?"]
+    ],
+    "Adjektive": [
+      ["merkwürdig", "strange", null, "Das war etwas merkwürdig."],
+      [
+        "plötzlich",
+        "suddenly",
+        null,
+        "Plötzlich ist sie aufgestanden und weggegangen."
+      ],
+      ["typisch", "typical", null, "Das ist typisch deutsch."],
+      ["privat", "private", null, "Diese Frage ist zu privat."],
+      ["nervös", "nervous", null, "Vor Prüfungen bin ich immer nervös."],
+      [
+        "pünktlich",
+        "punctual",
+        null,
+        "Oh, wie schön, dass ihr so pünktlich seid."
+      ]
+    ],
+    "Ausdrücke": [
+      [
+        "Das hat mich überrascht!",
+        "That surprised me!",
+        null,
+        "Das hat mich überrascht!"
+      ],
+      [
+        "Du glaubst nicht, was eben passiert ist.",
+        "You won’t believe what just happened.",
+        null,
+        "Du glaubst nicht, was eben passiert ist."
+      ],
+      [
+        "Ich bin total sauer.",
+        "I’m really angry.",
+        null,
+        "Ich bin total sauer."
+      ],
+      ["Was ist passiert?", "What happened?", null, "Was ist passiert?"],
+      [
+        "Worüber hast du dich geärgert?",
+        "What were you annoyed about?",
+        null,
+        "Worüber hast du dich geärgert?"
+      ],
+      [
+        "Woran soll ich mich gewöhnen?",
+        "What am I supposed to get used to?",
+        null,
+        "Woran soll ich mich gewöhnen?"
+      ],
+      [
+        "Daran kann ich mich nicht gewöhnen.",
+        "I can’t get used to that.",
+        null,
+        "Daran kann ich mich nicht gewöhnen."
+      ],
+      [
+        "Erzähl mal: Was ist los?",
+        "Tell me—what’s going on?",
+        null,
+        "Erzähl mal: Was ist los?"
+      ],
+      ["Beruhigen Sie sich.", "Calm down.", null, "Beruhigen Sie sich."],
+      [
+        "Alles halb so schlimm.",
+        "It’s not that bad.",
+        null,
+        "Alles halb so schlimm."
+      ],
+      [
+        "Keine Angst. Das wird schon klappen.",
+        "Don’t worry. It’ll work out.",
+        null,
+        "Keine Angst. Das wird schon klappen."
+      ],
+      [
+        "Jeder macht mal einen Fehler.",
+        "Everyone makes mistakes sometimes.",
+        null,
+        "Jeder macht mal einen Fehler."
+      ],
+      [
+        "Mach dir keine Sorgen.",
+        "Don’t worry.",
+        null,
+        "Mach dir keine Sorgen."
+      ],
+      [
+        "Ich kann verstehen, wie du dich fühlst.",
+        "I understand how you feel.",
+        null,
+        "Ich kann verstehen, wie du dich fühlst."
+      ],
+      [
+        "Das kann doch jedem passieren.",
+        "That can happen to anyone.",
+        null,
+        "Das kann doch jedem passieren."
+      ],
+      [
+        "Darüber spricht man (nicht).",
+        "People (don’t) talk about that.",
+        null,
+        "Darüber spricht man nicht."
+      ],
+      [
+        "Ups … falsches Thema!",
+        "Oops… wrong topic!",
+        null,
+        "Ups … falsches Thema!"
+      ]
+    ]
+  },
+  "grammar": [
+    {
+      "title": "Verben mit Präpositionen: Fragen nach Personen (Akkusativ/Dativ)",
+      "rules": "Some verbs require a fixed preposition. When you ask about a PERSON with these verbs, you combine the preposition with a question word.\n\n**Akkusativ (Wen?)**\n- sich aufregen **über** + Akk → **Über wen** hast du dich aufgeregt?\n- warten **auf** + Akk → **Auf wen** wartest du?\n- denken **an** + Akk → **An wen** denkst du (gerade)?\n\n**Dativ (Wem?)**\n- sich streiten **mit** + Dat → **Mit wem** hast du dich gestritten?\n- träumen **von** + Dat → **Von wem** träumst du?\n- sich unterhalten **mit** + Dat → **Mit wem** unterhältst du dich?\n\nGerman examples from the lesson pattern: „Über wen hast du dich aufgeregt?“ / „Mit wem unterhältst du dich?“",
+      "exercises": [
+        [
+          "Ergänze die Frage: „___ wen wartest du denn?“ (Verb: warten auf)",
+          ["Auf", "Über", "Mit", "Von"],
+          "Auf",
+          "Denke an: warten **auf** jemanden (Akk).",
+          "WARTEN → AUF (wie: warten *auf* den Bus).",
+          "The verb 'warten' takes 'auf' + accusative when asking about a person."
+        ],
+        [
+          "Welche Frage ist korrekt? (Verb: sich streiten mit)",
+          [
+            "Über wen hast du dich gestritten?",
+            "Mit wem hast du dich gestritten?",
+            "Auf wen hast du dich gestritten?",
+            "Von wem hast du dich gestritten?"
+          ],
+          "Mit wem hast du dich gestritten?",
+          "‘streiten’ goes with **mit** + Dativ.",
+          "STREIT = MIT jemandem (du streitest *mit* jemandem).",
+          "Use 'mit wem' for 'mit + dative'."
+        ],
+        [
+          "Setze ein: „___ wen denkst du gerade?“ (Verb: denken an)",
+          ["An", "Mit", "Von", "Über"],
+          "An",
+          "‘denken’ → **an** + Akk.",
+          "DENKEN → AN (an = 'to/at' in your mind).",
+          "The fixed preposition is 'an' with accusative for people/things you think of."
+        ],
+        [
+          "Bilde die Frage: Du bist wütend auf Markus. (Verb: sich aufregen über)",
+          [
+            "Über wen hast du dich aufgeregt?",
+            "Auf wen hast du dich aufgeregt?",
+            "Mit wem hast du dich aufgeregt?",
+            "Von wem hast du dich aufgeregt?"
+          ],
+          "Über wen hast du dich aufgeregt?",
+          "Bei ‘aufregen’ ist die Präposition **über**.",
+          "AUFREGEN → ÜBER (ich rege mich *über* etwas/jemanden auf).",
+          "Ask with 'über wen' because 'sich aufregen über' requires 'über'."
+        ],
+        [
+          "Wähle die richtige Antwort: „Mit wem triffst du dich oft?“",
+          [
+            "Mit meine Nachbarin.",
+            "Mit meiner Nachbarin.",
+            "Mit meine Nachbarin(en).",
+            "Mit meinem Nachbarin."
+          ],
+          "Mit meiner Nachbarin.",
+          "Nach **mit** kommt Dativ: meiner.",
+          "MIT = DATIV (miT = daTiv).",
+          "‘mit’ always takes dative, so feminine is 'meiner Nachbarin'."
+        ]
+      ]
+    },
+    {
+      "title": "Verben mit Präpositionen: Präpositionaladverbien (wo(r)- / da(r)-)",
+      "rules": "When you ask about a THING (not a person) with verb + preposition, German often uses **wo(r)- + preposition**.\n- worüber / woran / wovon / wofür …\n\nWhen you answer and refer back to that thing, you often use **da(r)- + preposition**.\n- darüber / daran / davon / dafür …\n\n**Rule detail:**\n- If the preposition starts with a vowel (an, auf, in, über …), insert **r**: **worüber**, **woran**, **darüber**, **daran**.\n\nExamples (lesson pattern):\n- Worüber hast du dich geärgert? – Über die Kritik. / Ich verstehe, dass du dich **darüber** geärgert hast.\n- Woran soll ich mich gewöhnen? – An die deutsche Direktheit. / **Daran** kann ich mich nicht gewöhnen.\n- Wovon träumen Sie? – Von einer Welt ohne Krieg. / **Davon** träume ich auch.",
+      "exercises": [
+        [
+          "Ergänze: „___ hast du dich geärgert?“ (Antwort: Über die Kritik.)",
+          ["Worüber", "Woran", "Wovon", "Wofür"],
+          "Worüber",
+          "Preposition is **über** → wo(r)+über.",
+          "ÜBER starts with a vowel → add **r**: wor-über.",
+          "For 'über' you ask 'Worüber…?' when asking about a thing."
+        ],
+        [
+          "Setze ein: „Ich verstehe, dass du dich ___ geärgert hast.“",
+          ["darüber", "darauf", "daran", "davon"],
+          "darüber",
+          "It refers back to **über die Kritik**.",
+          "Same preposition: über → darüber.",
+          "Use da(r)+preposition to refer back to the thing mentioned."
+        ],
+        [
+          "Welche Frage passt zur Antwort: „An die deutsche Direktheit.“",
+          [
+            "Worüber soll ich mich gewöhnen?",
+            "Woran soll ich mich gewöhnen?",
+            "Wovon soll ich mich gewöhnen?",
+            "Wofür soll ich mich gewöhnen?"
+          ],
+          "Woran soll ich mich gewöhnen?",
+          "Preposition is **an**.",
+          "AN starts with a vowel → woran.",
+          "‘sich gewöhnen an’ → ask with ‘Woran…?’"
+        ],
+        [
+          "Ergänze: „___ interessierst du dich?“ (Antwort: Für Motorräder.)",
+          ["Wofür", "Woran", "Worüber", "Wovon"],
+          "Wofür",
+          "Preposition is **für**.",
+          "FÜR → wofür / dafür.",
+          "‘sich interessieren für’ uses ‘Wofür…?’ for things."
+        ],
+        [
+          "Setze ein: „Von einer Welt ohne Krieg. – ___ träume ich auch.“",
+          ["Davon", "Darüber", "Daran", "Dafür"],
+          "Davon",
+          "It refers back to **von** + thing.",
+          "VON → davon.",
+          "Use ‘davon’ to refer back to something introduced with ‘von’."
+        ]
+      ]
+    },
+    {
+      "title": "Zeitangaben: seit, seitdem und bis",
+      "rules": "**seit + Zeitpunkt / Zeitraum** = ‘since / for’ (action started in the past and is still true now).\n- Ich lebe **seit** einem Jahr in Deutschland.\n- **Seit** ich meine Nachbarin kenne, spreche ich besser Deutsch.\n\n**seitdem + Nebensatz** = ‘since then’ (since a past event; often introduces a clause).\n- **Seitdem** ich mit meiner Nachbarin zusammen lerne, spreche ich besser Deutsch.\n\n**bis + Zeitpunkt/Ereignis** = ‘until’.\n- **Bis** wir uns das nächste Mal treffen, möchte ich noch üben.\n- **Bis** Regina nach Polen fährt, kann sie noch viel Polnisch lernen.",
+      "exercises": [
+        [
+          "Wähle: „___ einem Jahr lebe ich in Deutschland.“",
+          ["Seit", "Seitdem", "Bis", "Während"],
+          "Seit",
+          "Zeitspanne + Nomen → seit.",
+          "SEIT + Zeit (seit 2 Tagen, seit einem Jahr).",
+          "Use 'seit' with a noun phrase expressing time."
+        ],
+        [
+          "Wähle: „___ ich deutsche Freunde habe, habe ich weniger Angst zu sprechen.“",
+          ["Seitdem", "Seit", "Bis", "Obwohl"],
+          "Seitdem",
+          "Hier folgt ein Nebensatz (ich … habe).",
+          "SEITDEM = seit + dem Moment (mit Nebensatz).",
+          "‘Seitdem’ commonly introduces a subordinate clause."
+        ],
+        [
+          "Ergänze: „___ wir uns das nächste Mal treffen, möchte ich ein Lied suchen.“",
+          ["Bis", "Seit", "Seitdem", "Weil"],
+          "Bis",
+          "Meaning is ‘until’ the next meeting.",
+          "BIS = STOP-PUNKT in der Zukunft.",
+          "Use 'bis' for an endpoint in the future."
+        ],
+        [
+          "Welche Form ist korrekt? „Seit/Seitdem ich hier ___, spreche ich besser Deutsch.“ (Verb: lernen)",
+          ["lerne", "lernte", "gelernt habe", "lernen"],
+          "lerne",
+          "Seit/seitdem → often Präsens for ongoing action.",
+          "SEIT = läuft noch → Präsens.",
+          "In German, 'seit/seitdem' often uses present tense to show it continues now."
+        ],
+        [
+          "Setze ein: „___ sie meine Aussprache korrigiert, spreche ich besser.“",
+          ["Seit", "Seitdem", "Bis", "Wenn"],
+          "Seit",
+          "You can use ‘seit’ before a clause too (common in B1).",
+          "SEIT + Nebensatz = since (ongoing).",
+          "‘Seit’ can also introduce a clause meaning ‘since’ with continuing result."
+        ]
+      ]
+    },
+    {
+      "title": "Wortbildung: Verben als Nomen (Nominalisierung)",
+      "rules": "Many German verbs can become nouns. You write them **with a capital letter** and usually use **das**.\nExamples (lesson pattern):\n- **das Lernen** in einer Gruppe macht mir Spaß.\n- **das Wiederholen** ist die Mutter des Lernens.\n- Beim **Schreiben** mache ich noch Fehler.\n- Das **Sprechen** macht mir Spaß.\n\nAlso common: **das Gehen**, **das Betonen**, **das Kochen**.",
+      "exercises": [
+        [
+          "Wähle die richtige Schreibweise: „Das ___ macht mir Spaß.“ (lernen)",
+          ["lernen", "Lernen", "LERNEN", "leRnen"],
+          "Lernen",
+          "Als Nomen → groß.",
+          "Wenn „das“ davor steht → Großschreibung.",
+          "When a verb is used as a noun with 'das', it must be capitalized."
+        ],
+        [
+          "Ergänze: „Beim ___ mache ich noch viele Fehler.“ (schreiben)",
+          ["Schreiben", "schreiben", "geschrieben", "Schreibe"],
+          "Schreiben",
+          "‘beim’ + nominalisiertes Verb.",
+          "BEIM = bei dem → oft Nomen danach.",
+          "After 'beim' you often use a nominalized verb (capitalized)."
+        ],
+        [
+          "Welche Variante ist korrekt?",
+          [
+            "Das Wiederholen ist die Mutter des Lernens.",
+            "das Wiederholen ist die Mutter des Lernens.",
+            "Das wiederholen ist die Mutter des Lernens.",
+            "Das Wiederholen ist die mutter des Lernens."
+          ],
+          "Das Wiederholen ist die Mutter des Lernens.",
+          "Nomen groß: Wiederholen, Lernen; Mutter groß.",
+          "Nomen = Großschreibung.",
+          "Nouns are capitalized in German; nominalized verbs count as nouns."
+        ],
+        [
+          "Setze ein (Nominalisierung): „Ich mag ___ in der Gruppe.“ (lernen)",
+          ["das Lernen", "das lernen", "der Lernen", "die Lernen"],
+          "das Lernen",
+          "Artikel + Verb als Nomen.",
+          "DAS + Verb = Nomen.",
+          "Use 'das' + capitalized verb to form the noun."
+        ],
+        [
+          "Wähle: „Beim ___ betone ich die Wörter richtig.“ (sprechen)",
+          ["Sprechen", "sprechen", "Spricht", "gesprochen"],
+          "Sprechen",
+          "‘beim’ → Nomenform.",
+          "BEIM → Groß!",
+          "‘Beim Sprechen’ uses the nominalized verb, capitalized."
+        ]
+      ]
+    },
+    {
+      "title": "Richtig schreiben: Groß- und Kleinschreibung bei Sprachen",
+      "rules": "Language words can be written differently depending on function:\n\n**1) As a noun (language name)** → capitalized.\n- Ich lerne **Deutsch**.\n- Sie spricht **Englisch**.\n- Viele Deutsche sprechen **Französisch**.\n\n**2) As an adjective** → lowercase.\n- die **deutsche** Sprache\n- **englische** Filme\n\nAlso: Nationality nouns are capitalized:\n- der **Deutsche** / die **Deutsche** / viele **Deutsche**.",
+      "exercises": [
+        [
+          "Wähle richtig: „Ich lerne gerade ___.“",
+          ["deutsch", "Deutsch", "deutsche", "Deutsche"],
+          "Deutsch",
+          "Sprache als Nomen → groß.",
+          "Sprache = Name → Großbuchstabe.",
+          "Language names used as nouns are capitalized (Deutsch)."
+        ],
+        [
+          "Wähle richtig: „Ich sehe oft ___ Filme.“",
+          ["englisch", "Englisch", "englische", "Englische"],
+          "englische",
+          "‘Filme’ braucht ein Adjektiv.",
+          "Adjektive klein: deutsche, englische.",
+          "Before a noun (Filme), use the adjective form in lowercase."
+        ],
+        [
+          "Wähle richtig: „Viele ___ sprechen Französisch.“",
+          ["deutsche", "Deutsche", "deutsch", "Deutsch"],
+          "Deutsche",
+          "Menschen/Nationalität als Nomen → groß.",
+          "DER Deutsche / DIE Deutschen → groß.",
+          "Nationality used as a noun is capitalized: Deutsche."
+        ],
+        [
+          "Wähle richtig: „Meine ___ Freundin sagt, dass mein Polnisch besser ist.“",
+          ["polnische", "Polnische", "polnisch", "Polnisch"],
+          "polnische",
+          "Adjektiv vor ‘Freundin’.",
+          "Vor Nomen → Adjektiv klein.",
+          "‘polnische’ is an adjective describing Freundin, so lowercase."
+        ],
+        [
+          "Wähle richtig: „Sie spricht gut ___.“",
+          ["deutsch", "Deutsch", "deutsche", "Deutsche"],
+          "Deutsch",
+          "Sprache als Nomen.",
+          "Sprechen + Sprache → Groß.",
+          "When naming the language after 'sprechen', use the noun form: Deutsch."
+        ]
+      ]
+    }
+  ],
+  "imageThemes": [
+    "Überraschungen im Alltag in Deutschland (Autobahn, Fahrrad, Sonntagsruhe, Restaurant)",
+    "Smalltalk und Tabu-Themen (Geld, Gehalt, Politik, Religion, Kinderwunsch)",
+    "Sprachen lernen und interkulturelle Missverständnisse (Sprachbiografie, Dialekte, Pünktlichkeit)"
+  ]
+}
