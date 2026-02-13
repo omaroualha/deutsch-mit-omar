@@ -90,5 +90,50 @@ export const vocabTopics: QuizTopic[] = [
       { question: "How do you say 'I don't understand'?", options: ["Ich verstehe", "Ich verstehe nicht", "Ich weiß nicht"], correct: "Ich verstehe nicht", hint: "verstehen = to understand", mnemonic: "Ich verstehe nicht = I don't understand", explanation: "Ich verstehe nicht. (I don't understand.)" },
       { question: "How do you say 'My name is...'?", options: ["Ich heiße...", "Ich bin...", "Mein Name..."], correct: "Ich heiße...", hint: "heißen = to be called", mnemonic: "Ich heiße... = My name is... / I'm called...", explanation: "Ich heiße... or Mein Name ist..." }
     ]
+  },
+  {
+    topic: "B1 Health & Emergency",
+    questions: [
+      { question: "How do you say 'hospital'?", options: ["das Krankenhaus", "die Krankenhaus", "der Krankenhaus"], correct: "das Krankenhaus", hint: "Neuter noun", mnemonic: "das Krankenhaus = hospital", explanation: "das Krankenhaus (hospital)", genderColors: ["n", "f", "m"] },
+      { question: "How do you say 'emergency department (ER)'?", options: ["die Notaufnahme", "der Notaufnahme", "das Notaufnahme"], correct: "die Notaufnahme", hint: "Feminine noun", mnemonic: "die Notaufnahme = ER", explanation: "die Notaufnahme (emergency department)", genderColors: ["f", "m", "n"] },
+      { question: "How do you say 'ambulance'?", options: ["der Krankenwagen", "die Krankenwagen", "das Krankenwagen"], correct: "der Krankenwagen", hint: "Masculine noun", mnemonic: "der Krankenwagen = ambulance", explanation: "der Krankenwagen (ambulance)", genderColors: ["m", "f", "n"] },
+      { question: "How do you say 'injury'?", options: ["die Verletzung", "der Verletzung", "das Verletzung"], correct: "die Verletzung", hint: "-ung words are usually feminine", mnemonic: "-ung => die", explanation: "die Verletzung (injury)", genderColors: ["f", "m", "n"] },
+      { question: "How do you say 'painkiller'?", options: ["das Schmerzmittel", "der Schmerzmittel", "die Schmerzmittel"], correct: "das Schmerzmittel", hint: "Neuter noun", mnemonic: "das Schmerzmittel = pain medicine", explanation: "das Schmerzmittel (painkiller)", genderColors: ["n", "m", "f"] },
+      { question: "How do you say 'to fill out (a form)'?", options: ["ausfüllen", "abholen", "anrufen"], correct: "ausfüllen", hint: "Think of forms", mnemonic: "Formular ausfüllen = fill out a form", explanation: "ausfüllen = to fill out" },
+      { question: "What does 'Gute Besserung!' mean?", options: ["Get well soon!", "Good evening!", "Take care!"], correct: "Get well soon!", hint: "Common phrase for sick people", mnemonic: "Besser = better", explanation: "'Gute Besserung!' means 'Get well soon!'" },
+      { question: "How do you say 'allergy'?", options: ["die Allergie", "der Allergie", "das Allergie"], correct: "die Allergie", hint: "Feminine noun", mnemonic: "die Allergie = allergy", explanation: "die Allergie (allergy)", genderColors: ["f", "m", "n"] },
+      { question: "How do you say 'wound'?", options: ["die Wunde", "der Wunde", "das Wunde"], correct: "die Wunde", hint: "Feminine noun", mnemonic: "die Wunde = wound", explanation: "die Wunde (wound)", genderColors: ["f", "m", "n"] },
+      { question: "How do you say 'to call 112'?", options: ["112 anrufen", "112 ausfüllen", "112 warten"], correct: "112 anrufen", hint: "Emergency call", mnemonic: "anrufen = call", explanation: "112 anrufen = to call 112" }
+    ]
+  },
+  {
+    topic: "B1 Environment & Climate",
+    questions: [
+      { question: "How do you say 'waste separation'?", options: ["die Mülltrennung", "der Mülltrennung", "das Mülltrennung"], correct: "die Mülltrennung", hint: "Feminine noun", mnemonic: "die Mülltrennung = waste separation", explanation: "die Mülltrennung (waste separation)", genderColors: ["f", "m", "n"] },
+      { question: "How do you say 'plastic packaging'?", options: ["die Plastikverpackung", "das Plastikverpackung", "der Plastikverpackung"], correct: "die Plastikverpackung", hint: "-ung ending", mnemonic: "-ung nouns are feminine", explanation: "die Plastikverpackung (plastic packaging)", genderColors: ["f", "n", "m"] },
+      { question: "How do you say 'to recycle'?", options: ["recyceln", "vermeiden", "heizen"], correct: "recyceln", hint: "Modern loanword", mnemonic: "recyceln = recycle", explanation: "recyceln = to recycle" },
+      { question: "How do you say 'to save energy'?", options: ["Energie sparen", "Energie machen", "Energie trinken"], correct: "Energie sparen", hint: "sparen = save", mnemonic: "sparen = save", explanation: "Energie sparen = to save energy" },
+      { question: "How do you say 'socket / outlet'?", options: ["die Steckdose", "der Steckdose", "das Steckdose"], correct: "die Steckdose", hint: "Feminine noun", mnemonic: "die Steckdose = wall socket", explanation: "die Steckdose (socket / outlet)", genderColors: ["f", "m", "n"] },
+      { question: "How do you say 'plug'?", options: ["der Stecker", "die Stecker", "das Stecker"], correct: "der Stecker", hint: "Masculine noun", mnemonic: "der Stecker = plug", explanation: "der Stecker (plug)", genderColors: ["m", "f", "n"] },
+      { question: "How do you say 'to switch off'?", options: ["ausschalten", "einschalten", "abholen"], correct: "ausschalten", hint: "Opposite of einschalten", mnemonic: "aus = off", explanation: "ausschalten = to switch off" },
+      { question: "What is 'der Klimawandel'?", options: ["climate change", "air pollution", "weather forecast"], correct: "climate change", hint: "Important B1 topic", mnemonic: "Klima + Wandel", explanation: "der Klimawandel = climate change" },
+      { question: "How do you say 'public transport'?", options: ["die öffentlichen Verkehrsmittel", "der öffentliche Verkehrsmittel", "das öffentlichen Verkehrsmittel"], correct: "die öffentlichen Verkehrsmittel", hint: "Always plural", mnemonic: "Verkehrsmittel = means of transport", explanation: "die öffentlichen Verkehrsmittel = public transport", genderColors: ["p", "m", "n"] },
+      { question: "How do you say 'environmentally friendly'?", options: ["umweltfreundlich", "umweltschwer", "umweltklar"], correct: "umweltfreundlich", hint: "Adjective", mnemonic: "freundlich = friendly", explanation: "umweltfreundlich = environmentally friendly" }
+    ]
+  },
+  {
+    topic: "B1 Communication & Work",
+    questions: [
+      { question: "How do you say 'In my opinion ...'?", options: ["Meiner Meinung nach ...", "Meine Meinung ist ...", "Ich Meinung nach ..."], correct: "Meiner Meinung nach ...", hint: "Standard B1 phrase", mnemonic: "Meiner Meinung nach = in my opinion", explanation: "'Meiner Meinung nach ...' is used to give your opinion." },
+      { question: "How do you say 'I agree with you.'?", options: ["Da stimme ich dir zu.", "Ich denke dir.", "Da bin ich dir."], correct: "Da stimme ich dir zu.", hint: "Discussion phrase", mnemonic: "zustimmen = agree", explanation: "'Da stimme ich dir zu.' means 'I agree with you.'" },
+      { question: "How do you say 'I have to disagree.'?", options: ["Da muss ich dir widersprechen.", "Da stimme ich dir zu.", "Ich bin gleich."], correct: "Da muss ich dir widersprechen.", hint: "Opposite of agreement", mnemonic: "widersprechen = disagree", explanation: "'Da muss ich dir widersprechen.' is a polite disagreement phrase." },
+      { question: "How do you say 'training / apprenticeship'?", options: ["die Ausbildung", "der Ausbildung", "das Ausbildung"], correct: "die Ausbildung", hint: "Feminine noun", mnemonic: "die Ausbildung = apprenticeship", explanation: "die Ausbildung (training / apprenticeship)", genderColors: ["f", "m", "n"] },
+      { question: "How do you say 'shift' (work shift)?", options: ["die Schicht", "der Schicht", "das Schicht"], correct: "die Schicht", hint: "Feminine noun", mnemonic: "die Schicht = shift", explanation: "die Schicht (work shift)", genderColors: ["f", "m", "n"] },
+      { question: "How do you say 'weekend duty'?", options: ["der Wochenenddienst", "die Wochenenddienst", "das Wochenenddienst"], correct: "der Wochenenddienst", hint: "Masculine noun", mnemonic: "der Dienst = duty", explanation: "der Wochenenddienst (weekend duty)", genderColors: ["m", "f", "n"] },
+      { question: "How do you say 'to advise'?", options: ["beraten", "bestellen", "überweisen"], correct: "beraten", hint: "Used in work/service context", mnemonic: "beraten = advise", explanation: "beraten = to advise / counsel" },
+      { question: "How do you say 'to transfer (money)'?", options: ["überweisen", "ausfüllen", "vermeiden"], correct: "überweisen", hint: "Banking term", mnemonic: "überweisen = transfer money", explanation: "überweisen = to transfer (money)" },
+      { question: "How do you say 'solution'?", options: ["die Lösung", "der Lösung", "das Lösung"], correct: "die Lösung", hint: "-ung noun", mnemonic: "-ung -> die", explanation: "die Lösung (solution)", genderColors: ["f", "m", "n"] },
+      { question: "How do you say 'discussion / conversation'?", options: ["die Unterhaltung", "das Unterhaltung", "der Unterhaltung"], correct: "die Unterhaltung", hint: "Feminine noun", mnemonic: "die Unterhaltung = conversation", explanation: "die Unterhaltung (conversation)", genderColors: ["f", "n", "m"] }
+    ]
   }
 ];

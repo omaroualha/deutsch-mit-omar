@@ -7,9 +7,10 @@ import { Confetti } from '../Shared/Confetti';
 interface Props {
   questions: Question[];
   lessonTitle: string;
+  onComplete?: (percentage: number) => void;
 }
 
-export function LessonQuiz({ questions, lessonTitle }: Props) {
+export function LessonQuiz({ questions, lessonTitle, onComplete }: Props) {
   const { t } = useTranslation();
   const [current, setCurrent] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -19,6 +20,7 @@ export function LessonQuiz({ questions, lessonTitle }: Props) {
   const [firstTryCorrect, setFirstTryCorrect] = useState(0);
   const [showConfetti, setShowConfetti] = useState(false);
   const [finished, setFinished] = useState(false);
+  const [showHint, setShowHint] = useState(false);
 
   const q = questions[current];
   const total = questions.length;
@@ -46,11 +48,13 @@ export function LessonQuiz({ questions, lessonTitle }: Props) {
   const handleNext = () => {
     if (current + 1 >= total) {
       setFinished(true);
+      onComplete?.(Math.round((firstTryCorrect / total) * 100));
     } else {
       setCurrent((c) => c + 1);
       setSelected(null);
       setAnswered(false);
       setIncorrectSet(new Set());
+      setShowHint(false);
     }
   };
 
@@ -140,10 +144,16 @@ export function LessonQuiz({ questions, lessonTitle }: Props) {
         )}
       </div>
 
+      {showHint && (
+        <div className="hint-box">
+          <strong>💡 <T k="hint" />:</strong> {q.hint}
+        </div>
+      )}
+
       <div className="quiz-actions">
         <button
           className="btn btn-secondary"
-          onClick={() => alert(`💡 ${t('hint')}: ${q.hint}`)}
+          onClick={() => setShowHint((prev) => !prev)}
         >
           💡 <T k="needHint" />
         </button>

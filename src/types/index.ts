@@ -63,6 +63,7 @@ export interface UserProgress {
   streak: number;
   completedTopics: Record<string, boolean>;
   topicScores: Record<string, number>;
+  completedLessons: Record<string, number>;
   badges: string[];
   lastPlayed: string;
 }

@@ -27,6 +27,7 @@ export function QuizPage({ getTopics, onComplete }: Props) {
   const [showConfetti, setShowConfetti] = useState(false);
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [incorrectOptions, setIncorrectOptions] = useState<Set<string>>(new Set());
+  const [showHint, setShowHint] = useState(false);
 
   if (!topic) {
     return (
@@ -87,6 +88,7 @@ export function QuizPage({ getTopics, onComplete }: Props) {
   const handleNext = () => {
     setSelectedOption(null);
     setIncorrectOptions(new Set());
+    setShowHint(false);
     nextQuestion();
   };
 
@@ -127,6 +129,10 @@ export function QuizPage({ getTopics, onComplete }: Props) {
           </div>
         </div>
 
+        <div className="quiz-progress-bar">
+          <div style={{ width: `${((session.questionIndex + 1) / totalQuestions) * 100}%` }} />
+        </div>
+
         <div className="question-card">
           <div className="question-number">
             <T k="question" /> {session.questionIndex + 1} <T k="of" /> {totalQuestions}
@@ -155,10 +161,16 @@ export function QuizPage({ getTopics, onComplete }: Props) {
             </div>
           )}
 
+          {showHint && (
+            <div className="hint-box">
+              <strong>💡 <T k="hint" />:</strong> {currentQuestion!.hint}
+            </div>
+          )}
+
           <div className="quiz-actions">
             <button
               className="btn btn-secondary"
-              onClick={() => alert(`💡 ${t('hint')}: ${currentQuestion!.hint}`)}
+              onClick={() => setShowHint((prev) => !prev)}
             >
               💡 <T k="needHint" />
             </button>

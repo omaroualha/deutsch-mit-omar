@@ -14,7 +14,7 @@ import { useTheme } from './hooks/useTheme';
 import { getTopics, a1Topics, a2Topics, vocabTopics, b1Lessons, grammarTables, memoryTricks } from './data';
 
 export default function App() {
-  const { progress, completeTopic, getCompletedCount } = useProgress();
+  const { progress, completeTopic, completeLesson, getCompletedCount, getCompletedLessonCount } = useProgress();
   const { toggleTheme } = useTheme();
 
   return (
@@ -35,6 +35,7 @@ export default function App() {
                   a1Count={getCompletedCount('a1')}
                   a2Count={getCompletedCount('a2')}
                   b1LessonCount={b1Lessons.length}
+                  b1CompletedCount={getCompletedLessonCount()}
                   vocabCount={getCompletedCount('vocab')}
                   a1Total={a1Topics.length}
                   a2Total={a2Topics.length}
@@ -66,11 +67,11 @@ export default function App() {
             />
             <Route
               path="/b1"
-              element={<LessonList lessons={b1Lessons} />}
+              element={<LessonList lessons={b1Lessons} completedLessons={progress.completedLessons} />}
             />
             <Route
               path="/b1/lesson/:lessonId"
-              element={<LessonPage lessons={b1Lessons} />}
+              element={<LessonPage lessons={b1Lessons} onCompleteLesson={completeLesson} />}
             />
             <Route
               path="/vocab"

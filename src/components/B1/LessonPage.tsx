@@ -8,9 +8,10 @@ import { LessonQuiz } from './LessonQuiz';
 
 interface Props {
   lessons: B1Lesson[];
+  onCompleteLesson: (lessonId: string, percentage: number) => void;
 }
 
-export function LessonPage({ lessons }: Props) {
+export function LessonPage({ lessons, onCompleteLesson }: Props) {
   const { lessonId } = useParams<{ lessonId: string }>();
   const navigate = useNavigate();
   const lesson = lessons.find((l) => l.id === lessonId);
@@ -89,7 +90,7 @@ export function LessonPage({ lessons }: Props) {
         <p className="mb-20" style={{ color: 'var(--text-secondary)' }}>
           <T k="b1QuizSub" />
         </p>
-        <LessonQuiz questions={lesson.quiz} lessonTitle={lesson.title} />
+        <LessonQuiz questions={lesson.quiz} lessonTitle={lesson.title} onComplete={(pct) => onCompleteLesson(lesson.id, pct)} />
       </div>
     </section>
   );

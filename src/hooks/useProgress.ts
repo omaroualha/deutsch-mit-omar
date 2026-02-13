@@ -8,6 +8,7 @@ const defaultProgress: UserProgress = {
   streak: 0,
   completedTopics: {},
   topicScores: {},
+  completedLessons: {},
   badges: [],
   lastPlayed: '',
 };
@@ -43,11 +44,29 @@ export function useProgress() {
     [progress, save]
   );
 
+  const completeLesson = useCallback(
+    (lessonId: string, percentage: number) => {
+      const best = Math.max(progress.completedLessons[lessonId] ?? 0, percentage);
+      const updated: UserProgress = {
+        ...progress,
+        completedLessons: { ...progress.completedLessons, [lessonId]: best },
+        lastPlayed: new Date().toISOString(),
+      };
+      save(updated);
+    },
+    [progress, save]
+  );
+
   const getCompletedCount = useCallback(
     (levelPrefix: string) =>
       Object.keys(progress.completedTopics).filter((k) => k.startsWith(levelPrefix)).length,
     [progress]
   );
 
-  return { progress, completeTopic, getCompletedCount };
+  const getCompletedLessonCount = useCallback(
+    () => Object.keys(progress.completedLessons).length,
+    [progress]
+  );
+
+  return { progress, completeTopic, completeLesson, getCompletedCount, getCompletedLessonCount };
 }

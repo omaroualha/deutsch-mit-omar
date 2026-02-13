@@ -3,16 +3,16 @@ export type LangCode = 'de' | 'en';
 export type TranslationKey = keyof typeof translations;
 
 export const translations = {
-  appTitle: { de: 'Deutsch Lernquest', en: 'German Learning Quest' },
-  welcome: { de: 'Willkommen bei Deutsch Lernquest!', en: 'Welcome to German Learning Quest!' },
+  appTitle: { de: 'DeutschFit', en: 'DeutschFit' },
+  welcome: { de: 'Willkommen bei DeutschFit!', en: 'Welcome to DeutschFit!' },
   welcomeSub: {
     de: 'Meistere deutsche Grammatik und Wortschatz mit interaktiven Quizzen und kreativen Eselsbrücken',
     en: 'Master German grammar and vocabulary with interactive quizzes and creative mnemonics',
   },
   overallProgress: { de: 'Dein Gesamtfortschritt', en: 'Your Overall Progress' },
   completeQuizzes: {
-    de: 'Schließe Quizze ab, um Abzeichen freizuschalten und Deutsch zu meistern!',
-    en: 'Complete quizzes to unlock badges and master German!',
+    de: 'Schließe Quizze und Lektionen ab, um Abzeichen freizuschalten und Deutsch zu meistern!',
+    en: 'Complete quizzes and lessons to unlock badges and master German!',
   },
   a1Beginner: { de: 'A1 Anfänger', en: 'A1 Beginner' },
   a1Desc: {
@@ -26,8 +26,8 @@ export const translations = {
   },
   b1Intermediate: { de: 'B1 Fortgeschritten', en: 'B1 Upper Intermediate' },
   b1Desc: {
-    de: 'Lektion 1: Neue Nachbarn – Wortschatz, Grammatik & Alltagskommunikation',
-    en: 'Lesson 1: New Neighbors – vocabulary, grammar & everyday communication',
+    de: '7 Lektionen: Alltag, Arbeit, Gesundheit und Umwelt – mit Wortschatz, Grammatik und Prüfungstraining',
+    en: '7 lessons: daily life, work, health and environment - with vocabulary, grammar and exam training',
   },
   vocabPractice: { de: 'Wortschatzübung', en: 'Vocabulary Practice' },
   vocabDesc: {

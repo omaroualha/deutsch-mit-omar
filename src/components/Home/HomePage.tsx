@@ -7,17 +7,18 @@ interface Props {
   a1Count: number;
   a2Count: number;
   b1LessonCount: number;
+  b1CompletedCount: number;
   vocabCount: number;
   a1Total: number;
   a2Total: number;
   vocabTotal: number;
 }
 
-export function HomePage({ a1Count, a2Count, b1LessonCount, vocabCount, a1Total, a2Total, vocabTotal }: Props) {
+export function HomePage({ a1Count, a2Count, b1LessonCount, b1CompletedCount, vocabCount, a1Total, a2Total, vocabTotal }: Props) {
   const navigate = useNavigate();
   const { t } = useTranslation();
-  const totalComplete = a1Count + a2Count + vocabCount;
-  const totalTopics = a1Total + a2Total + vocabTotal;
+  const totalComplete = a1Count + a2Count + b1CompletedCount + vocabCount;
+  const totalTopics = a1Total + a2Total + b1LessonCount + vocabTotal;
   const percentage = totalTopics > 0 ? Math.round((totalComplete / totalTopics) * 100) : 0;
 
   return (
@@ -52,7 +53,7 @@ export function HomePage({ a1Count, a2Count, b1LessonCount, vocabCount, a1Total,
           <h3><T k="b1Intermediate" /></h3>
           <p>{t('b1Desc')}</p>
           <p className="level-progress">
-            {b1LessonCount} {t('b1LessonLabel')}
+            <T k="progress" />: {b1CompletedCount}/{b1LessonCount} {t('b1LessonLabel')}
           </p>
         </div>
         <div className="level-card vocab" onClick={() => navigate('/vocab')}>
