@@ -9,6 +9,7 @@ import { GrammarPage } from './components/Grammar/GrammarPage';
 import { TricksPage } from './components/Tricks/TricksPage';
 import { LessonList } from './components/B1/LessonList';
 import { LessonPage } from './components/B1/LessonPage';
+import { B1MasterReviewPage } from './components/B1/B1MasterReviewPage';
 import { useProgress } from './hooks/useProgress';
 import { useTheme } from './hooks/useTheme';
 import { getTopics, a1Topics, a2Topics, vocabTopics, b1Lessons, grammarTables, memoryTricks } from './data';
@@ -16,10 +17,11 @@ import { getTopics, a1Topics, a2Topics, vocabTopics, b1Lessons, grammarTables, m
 export default function App() {
   const { progress, completeTopic, completeLesson, getCompletedCount, getCompletedLessonCount } = useProgress();
   const { toggleTheme } = useTheme();
+  const routerBasename = import.meta.env.BASE_URL === '/' ? undefined : import.meta.env.BASE_URL;
 
   return (
     <LanguageProvider>
-      <BrowserRouter>
+      <BrowserRouter basename={routerBasename}>
         <Header
           totalPoints={progress.totalPoints}
           streak={progress.streak}
@@ -68,6 +70,10 @@ export default function App() {
             <Route
               path="/b1"
               element={<LessonList lessons={b1Lessons} completedLessons={progress.completedLessons} />}
+            />
+            <Route
+              path="/b1/master-review"
+              element={<B1MasterReviewPage lessons={b1Lessons} />}
             />
             <Route
               path="/b1/lesson/:lessonId"

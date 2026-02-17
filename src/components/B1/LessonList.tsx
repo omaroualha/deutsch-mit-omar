@@ -13,6 +13,11 @@ export function LessonList({ lessons, completedLessons }: Props) {
   return (
     <section className="section active">
       <h2 className="mb-20"><T k="b1Topics" /></h2>
+      <div className="mb-20">
+        <button className="btn btn-primary" onClick={() => navigate('/b1/master-review')}>
+          B1.1 Master Review + Mega Test
+        </button>
+      </div>
       <div className="lessons-grid">
         {lessons.map((lesson) => {
           const score = completedLessons[lesson.id];

@@ -570,6 +570,20 @@ th { background: var(--bg-primary); font-weight: 600; }
   border-bottom: 3px solid #FF9800;
 }
 
+.master-review-page .lesson-section > h3 {
+  font-size: 1.35rem;
+}
+
+.master-list {
+  margin: 0;
+  padding-left: 18px;
+  line-height: 1.7;
+}
+
+.master-list li {
+  margin-bottom: 10px;
+}
+
 .vocab-group { margin-bottom: 24px; }
 .vocab-category {
   font-size: 1.1rem;
@@ -599,6 +613,81 @@ th { background: var(--bg-primary); font-weight: 600; }
 }
 .vocab-table tbody tr:hover { background: rgba(255,152,0,0.05); }
 .vocab-example { font-style: italic; color: var(--text-secondary); font-size: 0.9rem; }
+
+.verb-hover {
+  position: relative;
+  display: inline-block;
+  cursor: help;
+  border-bottom: 1px dashed rgba(255, 152, 0, 0.6);
+}
+
+.verb-tooltip {
+  position: absolute;
+  left: 0;
+  top: calc(100% + 8px);
+  z-index: 20;
+  min-width: 320px;
+  max-width: 420px;
+  padding: 10px;
+  border-radius: 10px;
+  background: var(--bg-primary);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid rgba(255, 152, 0, 0.25);
+  font-size: 0.85rem;
+  line-height: 1.4;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(4px);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s ease;
+  max-height: 70vh;
+  overflow: auto;
+}
+
+.verb-tooltip table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 8px;
+}
+
+.verb-tooltip td {
+  border: 0;
+  padding: 2px 0;
+  font-size: 0.82rem;
+}
+
+.verb-tooltip td:first-child {
+  color: var(--text-secondary);
+  width: 38%;
+}
+
+.verb-tooltip .verb-section-row td {
+  padding-top: 8px;
+  font-weight: 700;
+  color: var(--text-primary);
+  border-top: 1px solid rgba(127, 140, 141, 0.25);
+}
+
+.verb-tooltip .verb-section-row:first-child td {
+  border-top: none;
+  padding-top: 0;
+}
+
+.verb-tooltip-extra {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid rgba(127, 140, 141, 0.25);
+  display: grid;
+  gap: 4px;
+  font-size: 0.8rem;
+}
+
+.verb-hover:hover .verb-tooltip,
+.verb-hover:focus .verb-tooltip,
+.verb-hover:focus-within .verb-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
 
 .gender-dot-m::before,
 .gender-dot-f::before,
@@ -942,6 +1031,21 @@ th { background: var(--bg-primary); font-weight: 600; }
   }
   .vocab-table td:first-child { font-weight: 600; font-size: 1rem; }
   .vocab-table td:last-child { font-size: 0.85rem; }
+
+  .verb-tooltip {
+    position: fixed;
+    left: 50%;
+    top: auto;
+    bottom: 16px;
+    transform: translate(-50%, 8px);
+    width: min(92vw, 340px);
+    max-width: 92vw;
+  }
+  .verb-hover:hover .verb-tooltip,
+  .verb-hover:focus .verb-tooltip,
+  .verb-hover:focus-within .verb-tooltip {
+    transform: translate(-50%, 0);
+  }
 }
 
 /* Small phones (480px and below) */

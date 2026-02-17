@@ -38,6 +38,49 @@ npm run dev
 npm run build
 ```
 
+## Deployment (Hetzner, no domain yet)
+
+This app is configured for subpath hosting at:
+
+- `http://65.21.252.253/deutschfit/`
+
+### 1) One-time server setup (Nginx)
+
+Create deploy directory:
+
+```bash
+sudo mkdir -p /var/www/deutschfit
+```
+
+Edit your existing Nginx server block (the one serving `http://65.21.252.253/`) and add:
+
+```nginx
+location /deutschfit/ {
+    alias /var/www/deutschfit/;
+    try_files $uri $uri/ /deutschfit/index.html;
+}
+```
+
+Then reload:
+
+```bash
+sudo nginx -t && sudo systemctl reload nginx
+```
+
+### 2) GitHub auto-deploy on push
+
+A workflow is included at `.github/workflows/deploy.yml`.
+It builds on every push to `main`, then deploys `dist/` to `/var/www/deutschfit/`.
+
+Add these GitHub repository secrets:
+
+- `HETZNER_HOST` = `65.21.252.253`
+- `HETZNER_USER` = `root`
+- `HETZNER_SSH_KEY` = private SSH key content
+- `HETZNER_PORT` = `22` (optional)
+
+Make sure the public key for `HETZNER_SSH_KEY` is in `/root/.ssh/authorized_keys` on the server.
+
 ## B1 Lessons
 
 Currently includes 7 lessons based on textbook chapters:
