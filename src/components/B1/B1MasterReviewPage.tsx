@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import type { B1Lesson, VocabEntry } from '../../types';
 import { LessonQuiz } from './LessonQuiz';
 import { PERSONS, conjugateVerb } from './VocabTable';
@@ -6,13 +7,13 @@ interface Props {
   lessons: B1Lesson[];
 }
 
-function stripHtml(html: string): string {
-  return html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
-}
-
 function normalizeKey(value: string): string {
   return value.toLowerCase().trim();
 }
+
+const LESSON_COLORS = [
+  '#4A90E2', '#E91E63', '#FF9800', '#4CAF50', '#9C27B0', '#00BCD4', '#FF5722',
+];
 
 function uniqueByWord(entries: Array<VocabEntry & { lesson: string; lessonTitle: string }>) {
   const seen = new Set<string>();
@@ -22,6 +23,48 @@ function uniqueByWord(entries: Array<VocabEntry & { lesson: string; lessonTitle:
     seen.add(key);
     return true;
   });
+}
+
+function GrammarCard({ lesson, lessonIndex }: { lesson: B1Lesson; lessonIndex: number }) {
+  const [openIndex, setOpenIndex] = useState<number | null>(null);
+  const color = LESSON_COLORS[lessonIndex % LESSON_COLORS.length];
+
+  return (
+    <div className="master-grammar-lesson" style={{ borderLeft: `4px solid ${color}` }}>
+      <div className="master-grammar-lesson-header" style={{ borderBottom: `2px solid ${color}20` }}>
+        <span className="master-grammar-badge" style={{ background: color }}>{lesson.subtitle}</span>
+        <span className="master-grammar-lesson-title">{lesson.title}</span>
+      </div>
+      <div className="master-grammar-topics">
+        {lesson.grammar.map((grammar, index) => {
+          const isOpen = openIndex === index;
+          return (
+            <div key={index} className={`master-grammar-topic ${isOpen ? 'open' : ''}`}>
+              <button
+                className="master-grammar-topic-toggle"
+                onClick={() => setOpenIndex(isOpen ? null : index)}
+                style={{ '--accent': color } as React.CSSProperties}
+              >
+                <span className="master-grammar-topic-number" style={{ background: `${color}18`, color }}>
+                  {index + 1}
+                </span>
+                <span className="master-grammar-topic-title">{grammar.title}</span>
+                <span className={`master-grammar-chevron ${isOpen ? 'open' : ''}`}>&#9662;</span>
+              </button>
+              {isOpen && (
+                <div className="master-grammar-topic-content" style={{ borderTop: `2px solid ${color}20` }}>
+                  <div
+                    className="grammar-explanation master-grammar-html"
+                    dangerouslySetInnerHTML={{ __html: grammar.explanation }}
+                  />
+                </div>
+              )}
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
 }
 
 export function B1MasterReviewPage({ lessons }: Props) {
@@ -40,7 +83,6 @@ export function B1MasterReviewPage({ lessons }: Props) {
     entriesWithLesson.filter((entry) => entry.category === 'Adjektiv' || entry.category === 'Adverb'),
   );
 
-  // Core vocabulary only: nouns, prepositions and expressions; keep concise by limiting per lesson
   const coreVocab = lessons.flatMap((lesson) => {
     const lessonEntries = lesson.vocabulary.flatMap((group) => group.entries);
     const filtered = lessonEntries.filter(
@@ -53,7 +95,6 @@ export function B1MasterReviewPage({ lessons }: Props) {
     }));
   });
 
-  // Important mixed test: keep compact (5 per lesson)
   const importantQuestions = lessons.flatMap((lesson) =>
     lesson.quiz.slice(0, 5).map((q) => ({
       ...q,
@@ -87,19 +128,11 @@ export function B1MasterReviewPage({ lessons }: Props) {
 
       <div className="lesson-section">
         <h3>Important Grammar By Lesson</h3>
-        {lessons.map((lesson) => (
-          <div key={lesson.id} className="grammar-block">
-            <h4>
-              {lesson.subtitle}: {lesson.title}
-            </h4>
-            <ul className="master-list">
-              {lesson.grammar.map((grammar, index) => (
-                <li key={index}>
-                  <strong>{grammar.title}</strong>: {stripHtml(grammar.explanation).slice(0, 160)}...
-                </li>
-              ))}
-            </ul>
-          </div>
+        <p className="mb-20" style={{ color: 'var(--text-secondary)', fontSize: '0.95rem' }}>
+          Click on a topic to expand the full explanation with tables and examples.
+        </p>
+        {lessons.map((lesson, i) => (
+          <GrammarCard key={lesson.id} lesson={lesson} lessonIndex={i} />
         ))}
       </div>
 

@@ -588,6 +588,146 @@ th { background: var(--bg-primary); font-weight: 600; }
   margin-bottom: 10px;
 }
 
+/* ===== MASTER REVIEW GRAMMAR CARDS ===== */
+.master-grammar-lesson {
+  background: var(--bg-secondary);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+
+.master-grammar-lesson-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 20px;
+}
+
+.master-grammar-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 20px;
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.master-grammar-lesson-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.master-grammar-topics {
+  padding: 0;
+}
+
+.master-grammar-topic {
+  border-top: 1px solid rgba(127, 140, 141, 0.1);
+}
+
+.master-grammar-topic-toggle {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 14px 20px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  transition: background 0.15s ease;
+}
+
+.master-grammar-topic-toggle:hover {
+  background: rgba(127, 140, 141, 0.06);
+}
+
+.master-grammar-topic-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  font-size: 0.8rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.master-grammar-topic-title {
+  flex: 1;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.master-grammar-chevron {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+.master-grammar-chevron.open {
+  transform: rotate(180deg);
+}
+
+.master-grammar-topic-content {
+  padding: 20px 24px 24px;
+  animation: fadeIn 0.2s ease;
+}
+
+.master-grammar-html {
+  line-height: 1.8;
+}
+
+.master-grammar-html h4 {
+  font-size: 1.15rem;
+  margin-bottom: 12px;
+  color: var(--text-primary);
+}
+
+.master-grammar-html p {
+  margin: 10px 0;
+}
+
+.master-grammar-html strong {
+  color: var(--text-primary);
+}
+
+.master-grammar-html table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+  font-size: 0.9rem;
+}
+
+.master-grammar-html table th {
+  background: var(--bg-primary);
+  padding: 10px 14px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.85rem;
+  border-bottom: 2px solid var(--text-secondary);
+}
+
+.master-grammar-html table td {
+  padding: 8px 14px;
+  border-bottom: 1px solid rgba(127, 140, 141, 0.15);
+}
+
+.master-grammar-html table tbody tr:nth-child(even) {
+  background: rgba(127, 140, 141, 0.04);
+}
+
+.master-grammar-html table tbody tr:hover {
+  background: rgba(255, 152, 0, 0.06);
+}
+
 .vocab-group { margin-bottom: 24px; }
 .vocab-category {
   font-size: 1.1rem;
